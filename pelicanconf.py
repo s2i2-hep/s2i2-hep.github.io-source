@@ -37,6 +37,7 @@ PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.include_code', 'liquid_tags.notebook',
            'liquid_tags.literal']
 
+DISPLAY_TAGS_ON_SIDEBAR=False
 
 THEME = 'pelican-bootstrap3'
 #THEME = 'notmyidea'
