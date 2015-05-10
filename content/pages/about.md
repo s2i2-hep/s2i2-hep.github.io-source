@@ -8,15 +8,15 @@ Summary: Summary of the DIANA Project
 
 ### PROJECT PERSONNEL
 
-  * Elmer, G.J. Peter – Lead PI Princeton University Department of Physics
+  * [Peter Elmer](https://ch.linkedin.com/pub/peter-elmer/64/279/75b) (Lead PI) - Princeton University Department of Physics
 
-  * Kyle Cranmer - Co-PI New York University Department of Physics
+  * [Kyle Cranmer](theoryandpractice.org) (Co-PI) - New York University Department of Physics & Center for Data Science
 
-  * Jinyang Li - Senior Personnel New York University Department of Physics & Center for Data Science
+  * [Jinyang Li](http://www.news.cs.nyu.edu/~jinyang/) (Senior Personnel) - New York University Computer Science Department
 
-  * Michael D. Sokoloff - Co-PI University of Cincinnati Main Campus Department of Physics
+  * [Michael D. Sokoloff](http://www.physics.uc.edu/~sokoloff/) (Co-PI) - University of Cincinnati Main Campus Department of Physics
 
-  * Brian P. Bockelman - Co-PI University of Nebraska-Lincoln Department of Computer Science and Engineering
+  * [Brian P. Bockelman(https://github.com/bbockelm)] (Co-PI) - University of Nebraska-Lincoln Department of Computer Science and Engineering
 
 ### Advisory Board
 
