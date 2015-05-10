@@ -14,6 +14,13 @@ Progress:
   * Using Travis to build website -- [how-to](http://zonca.github.io/2013/09/automatically-build-pelican-and-publish-to-github-pages.html)
   * deploying to GitHub pages [http://diana-hep.github.io](http://diana-hep.github.io)
   * created `CNAME` file to use custom url `diana-hep.org`
+  * Check math: $pp \to \tilde{\chi}_1^0 \tilde{\chi}_1^\pm$
+  * Check code 
+
+```python
+    def main():
+        print 'welcome to Pelican'
+```
 
 To do: 
 

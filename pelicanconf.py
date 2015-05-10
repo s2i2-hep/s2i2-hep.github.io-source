@@ -29,3 +29,27 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+
+PLUGIN_PATH = 'pelican-plugins'
+PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
+			'liquid_tags.youtube', 'render_math',
+           'liquid_tags.include_code', 'liquid_tags.notebook',
+           'liquid_tags.literal']
+
+
+THEME = 'pelican-bootstrap3'
+#THEME = 'notmyidea'
+PYGMENTS_STYLE='default'
+#PYGMENTS_STYLE='friendly'
+#THEME = '../pelican-bootstrap3'
+#THEME = '/Users/cranmer/virtualenvs/pelican/lib/python2.7/site-packages/pelican/themes/pelican-bootstrap3'
+# This requires Pelican 3.3+
+
+#For pelican-ootstrap3
+BOOTSTRAP_THEME='simplex'
+#BOOTSTRAP_THEME='yeti'
+#BOOTSTRAP_THEME='superhero' #nice but, background doesn't work well with code as is
+BOOTSTRAP_THEME='cosmo'
+#BOOTSTRAP_THEME='paper'
+DISPLAY_BREADCRUMBS=False
