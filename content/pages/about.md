@@ -16,7 +16,7 @@ Summary: Summary of the DIANA Project
 
   * [Michael D. Sokoloff](http://www.physics.uc.edu/~sokoloff/) (Co-PI) - University of Cincinnati Main Campus Department of Physics
 
-  * [Brian P. Bockelman(https://github.com/bbockelm)] (Co-PI) - University of Nebraska-Lincoln Department of Computer Science and Engineering
+  * [Brian P. Bockelman](https://github.com/bbockelm)] (Co-PI) - University of Nebraska-Lincoln Department of Computer Science and Engineering
 
 ### Advisory Board
 
