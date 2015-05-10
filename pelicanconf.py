@@ -15,20 +15,37 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
+MENUITEMS = (
+			('About','/index.html'),)
+
 # Blogroll
-LINKS =  (('Pelican', 'http://getpelican.com/'),
-          ('Python.org', 'http://python.org/'),
-          ('Jinja2', 'http://jinja.pocoo.org/'),
-          ('You can modify those links in your config file', '#'),)
+LINKS =  (('ROOT', 'https://root.cern.ch/drupal/'),
+		  ('RIO','/'),
+		  ('NSF SSI','http://www.nsf.gov/pubs/2014/nsf14520/nsf14520.htm'),
+		  ('RooStats','https://twiki.cern.ch/twiki/bin/view/RooStats/WebHome'),
+		  ('GooFit','https://github.com/GooFit/GooFit'),
+		  ('RootPy','http://www.rootpy.org'),
+		  ('AstroPy','http://www.astropy.org'),
+		  ('scikit-learn','http://scikit-learn.org/stable/'),
+		  )
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('twitter', 'http://twitter.com/diana-hep'),
+          ('github', 'http://github.com/diana-hep'),)
+
+CC_LICENSE="CC-BY"
+
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+STATIC_PATHS = ['images', 'downloads', 'downloads/notebooks',
+                'downloads/files','downloads/code', 'favicon.png']
+
+CODE_DIR = 'downloads/code'
+NOTEBOOK_DIR = 'downloads/notebooks'
 
 
 PLUGIN_PATH = 'pelican-plugins'
@@ -54,3 +71,23 @@ BOOTSTRAP_THEME='simplex'
 BOOTSTRAP_THEME='cosmo'
 #BOOTSTRAP_THEME='paper'
 DISPLAY_BREADCRUMBS=False
+
+# comments
+DISQUS_SITENAME="diana-hep"
+
+''' For reference, this code
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'diana-hep';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+'''
+

@@ -7,6 +7,15 @@ Authors: Kyle Cranmer
 
 Initial post for DIANA-HEP.
 
+Status of build:
+
+![](https://travis-ci.org/diana-hep/diana-hep.github.io-source.svg?branch=master)
+
+To do: 
+
+   * setup DNS for `www.diana-hep.org` subdomain using [this guide](https://help.github.com/articles/tips-for-configuring-a-cname-record-with-your-dns-provider)
+   * setup DNS for `diana-hep.org` apex domain using [this guide](https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider/)
+
 Progress:
 
   * Created [DIANA-HEP GitHub Organization](https://github.com/diana-hep)
@@ -22,12 +31,9 @@ Progress:
         print 'welcome to Pelican'
 ```
 
-To do: 
-
-   * setup DNS for `www.diana-hep.org` subdomain using [this guide](https://help.github.com/articles/tips-for-configuring-a-cname-record-with-your-dns-provider)
-   * setup DNS for `diana-hep.org` apex domain using [this guide](https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider/)
+   * Check embed ipython notebook
+   {% notebook BasicRooFitExample.ipynb cells[2:10] %}
 
 
-Status of build:
 
-![](https://travis-ci.org/diana-hep/diana-hep.github.io-source.svg?branch=master)
+
