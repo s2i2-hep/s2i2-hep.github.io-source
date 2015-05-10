@@ -48,7 +48,7 @@ CODE_DIR = 'downloads/code'
 NOTEBOOK_DIR = 'downloads/notebooks'
 
 
-PLUGIN_PATH = 'pelican-plugins'
+PLUGIN_PATHs = ['pelican-plugins']
 PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
 			'liquid_tags.youtube', 'render_math',
            'liquid_tags.include_code', 'liquid_tags.notebook',

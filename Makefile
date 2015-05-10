@@ -53,6 +53,7 @@ help:
 	@echo '                                                                       '
 
 html:	
+	ls
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 	cp CNAME $(OUTPUTDIR) #added by Kyle for custom URL
 
