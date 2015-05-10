@@ -75,7 +75,7 @@ BOOTSTRAP_THEME='simplex'
 #BOOTSTRAP_THEME='yeti'
 #BOOTSTRAP_THEME='superhero' #nice but, background doesn't work well with code as is
 BOOTSTRAP_THEME='cosmo'
-BOOTSTRAP_THEME='paper'
+#BOOTSTRAP_THEME='paper'
 DISPLAY_BREADCRUMBS=False
 
 # comments
