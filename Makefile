@@ -53,6 +53,8 @@ help:
 	@echo '                                                                       '
 
 html:
+	pwd
+	ls
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
