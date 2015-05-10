@@ -30,7 +30,7 @@ LINKS =  (('ROOT', 'https://root.cern.ch/drupal/'),
 		  )
 
 # Social widget
-SOCIAL = (('twitter', 'http://twitter.com/diana-hep'),
+SOCIAL = (('twitter', 'http://twitter.com/diana_hep'),
           ('github', 'http://github.com/diana-hep'),)
 
 CC_LICENSE="CC-BY"
