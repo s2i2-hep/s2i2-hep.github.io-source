@@ -1,4 +1,4 @@
 pelican
 Markdown
 fabric
-ipython[all]
+ipython[notebook]==2.4
