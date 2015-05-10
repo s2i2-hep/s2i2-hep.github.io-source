@@ -15,8 +15,11 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
+DISPLAY_PAGES_ON_MENU =False
 MENUITEMS = (
-			('About','/index.html'),)
+			('About','pages/about.html'),
+			('Job Opportunities','pages/jobs.html')
+			)
 
 # Blogroll
 LINKS =  (('ROOT', 'https://root.cern.ch/drupal/'),
@@ -41,6 +44,8 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+DIRECT_TEMPLATES=('search',) 
+
 STATIC_PATHS = ['images', 'downloads', 'downloads/notebooks',
                 'downloads/files','downloads/code', 'favicon.png']
 
@@ -52,9 +57,10 @@ PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
 			'liquid_tags.youtube', 'render_math',
            'liquid_tags.include_code', 'liquid_tags.notebook',
-           'liquid_tags.literal']
+           'liquid_tags.literal', 'tipue_search']
 
 DISPLAY_TAGS_ON_SIDEBAR=False
+DISPLAY_RECENT_POSTS_ON_SIDEBAR=True
 
 THEME = 'pelican-bootstrap3'
 #THEME = 'notmyidea'
@@ -69,7 +75,7 @@ BOOTSTRAP_THEME='simplex'
 #BOOTSTRAP_THEME='yeti'
 #BOOTSTRAP_THEME='superhero' #nice but, background doesn't work well with code as is
 BOOTSTRAP_THEME='cosmo'
-#BOOTSTRAP_THEME='paper'
+BOOTSTRAP_THEME='paper'
 DISPLAY_BREADCRUMBS=False
 
 # comments

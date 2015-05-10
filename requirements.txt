@@ -2,3 +2,4 @@ pelican
 Markdown
 fabric
 ipython[notebook]==2.4
+beautifulsoup4
