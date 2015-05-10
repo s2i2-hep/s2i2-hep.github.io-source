@@ -54,7 +54,7 @@ help:
 
 html:	
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
-	cp CNAME $(OUTPUTDIR) #added by Kyle for custom URL
+	# uncomment once DNS is setup cp CNAME $(OUTPUTDIR) #added by Kyle for custom URL
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
