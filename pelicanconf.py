@@ -24,7 +24,7 @@ MENUITEMS = (
 # Blogroll
 LINKS =  (('ROOT', 'https://root.cern.ch/drupal/'),
 		  ('RIO','/'),
-		  ('NSF SSI','http://www.nsf.gov/pubs/2014/nsf14520/nsf14520.htm'),
+		  ('NSF SI2','http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504817'),
 		  ('RooStats','https://twiki.cern.ch/twiki/bin/view/RooStats/WebHome'),
 		  ('GooFit','https://github.com/GooFit/GooFit'),
 		  ('RootPy','http://www.rootpy.org'),
