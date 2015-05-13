@@ -26,7 +26,7 @@ acquired at CERN's Large Hadron Collider (LHC) and other facilities.
 
    * Collaborative Analysis Tools - RooFit, RooStats, HepData interfaces, and analysis preservation
 
-DIANA/HEP has been funded via the National Science Foundation's [Software Infrastructure for Sustained Innovation (SI2) ](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504817) program.
+DIANA/HEP is funded by the National Science Foundation's [Software Infrastructure for Sustained Innovation (SI2)](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504817) program.
    
 
 
