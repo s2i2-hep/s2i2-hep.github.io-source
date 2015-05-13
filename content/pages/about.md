@@ -72,5 +72,6 @@ product available to the larger scientific community.
 
 ### Acknowledgement
 
-This project supported by National Science Foundation awards  1450310, 1450319, 1450323, and 1450377 . Any opinions, findings, and conclusions or recommendations expressed in this material are those of the developers and do not necessarily reflect the views of the National Science Foundation.
+This project is supported by [National Science Foundation](http://nsf.gov) grants ACI-1450310, ACI-1450319, ACI-1450323, and ACI-1450377 . Any opinions, findings, conclusions or recommendations expressed in this material are those of the developers and do not necessarily reflect the views of the National Science Foundation.
+
 
