@@ -44,23 +44,10 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-DIRECT_TEMPLATES=('search',) 
-
-STATIC_PATHS = ['images', 'downloads', 'downloads/notebooks',
-                'downloads/files','downloads/code', 'favicon.png']
-
-CODE_DIR = 'downloads/code'
-NOTEBOOK_DIR = 'downloads/notebooks'
-
-
-PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
-			'liquid_tags.youtube', 'render_math',
-           'liquid_tags.include_code', 'liquid_tags.notebook',
-           'liquid_tags.literal', 'tipue_search']
 
 DISPLAY_TAGS_ON_SIDEBAR=False
 DISPLAY_RECENT_POSTS_ON_SIDEBAR=True
+
 
 THEME = 'pelican-bootstrap3'
 #THEME = 'notmyidea'
@@ -77,6 +64,32 @@ BOOTSTRAP_THEME='simplex'
 BOOTSTRAP_THEME='cosmo'
 #BOOTSTRAP_THEME='paper'
 DISPLAY_BREADCRUMBS=False
+
+#custom CSS
+CUSTOM_CSS = 'static/custom.css'
+
+
+
+DIRECT_TEMPLATES=('search',) 
+
+STATIC_PATHS = ['images','css', 'downloads', 'downloads/notebooks',
+                'downloads/files','downloads/code', 'favicon.png']
+
+# Tell Pelican to change the path to 'static/custom.css' in the output dir
+EXTRA_PATH_METADATA = {
+    'css/custom.css': {'path': 'static/custom.css'}
+}
+
+CODE_DIR = 'downloads/code'
+NOTEBOOK_DIR = 'downloads/notebooks'
+
+
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
+			'liquid_tags.youtube', 'render_math',
+           'liquid_tags.include_code', 'liquid_tags.notebook',
+           'liquid_tags.literal', 'tipue_search']
+
 
 # comments
 DISQUS_SITENAME="diana-hep"
