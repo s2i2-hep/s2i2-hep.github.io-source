@@ -8,7 +8,7 @@ Summary: Job Opportunities
 
 ### PROJECT PERSONNEL
 
-   * [Peter Elmer](https://ch.linkedin.com/pub/peter-elmer/64/279/75b) (Lead PI) - Princeton University Department of Physics
+   * [Peter Elmer](http://www.princeton.edu/physics/people/display_person.xml?netid=gelmer&display=Research%20Staff) (Lead PI) - Princeton University Department of Physics
 
   * [Kyle Cranmer](theoryandpractice.org) (Co-PI) - New York University Department of Physics & Center for Data Science
 
