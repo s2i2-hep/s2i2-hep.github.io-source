@@ -27,7 +27,7 @@ Summary: Summary of the DIANA Project
 
   * [Jacob VanderPlas](http://www.astro.washington.edu/users/vanderplas/) - Director of Research, Physical Sciences, eScience Institute, University of Washington  
 
-  * [Fernando Pérez](http://fperez.org) - Research Scientist, Henry H. Wheeler Jr. Brain Imaging Center at U.C. Berkeley
+  * [Fernando Pérez](http://fperez.org) - Staff Scientist, Data Science and Technology Division, Lawrence Berkeley National Laboratory; Associate Researcher, Berkeley Institute for Data Science, UC Berkeley.
 
   * [Attanagoda Santha](https://www.linkedin.com/pub/attanagoda-santha/60/aba/399) - Architect, Fannie Mae
 
