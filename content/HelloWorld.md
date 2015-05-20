@@ -15,6 +15,7 @@ To do:
 
    * setup DNS for `www.diana-hep.org` subdomain using [this guide](https://help.github.com/articles/tips-for-configuring-a-cname-record-with-your-dns-provider)
    * setup DNS for `diana-hep.org` apex domain using [this guide](https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider/)
+      * ok, working with .net currently, need to decide.
 
 Progress:
 
