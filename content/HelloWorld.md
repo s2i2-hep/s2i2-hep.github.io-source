@@ -4,6 +4,7 @@ Slug: Hello World
 Category: Blog
 Tags:  news
 Authors: Kyle Cranmer
+Status: draft
 
 Initial post for DIANA-HEP.
 
