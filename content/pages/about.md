@@ -1,6 +1,5 @@
 Title: DIANA Overview
 date: 2015-05-10 10:53
-URL:
 slug: about.html
 Authors: Kyle Cranmer
 Summary: Summary of the DIANA Project

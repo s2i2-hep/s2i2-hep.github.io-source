@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'DIANA HEP'
 SITENAME = u'DIANA HEP'
-SITEURL = 'http://diana-hep.org'
+SITEURL = ''
 
 TIMEZONE = 'Europe/Paris'
 
@@ -17,8 +17,8 @@ TRANSLATION_FEED_ATOM = None
 
 DISPLAY_PAGES_ON_MENU =False
 MENUITEMS = (
-			('About','pages/about.html'),
-			('Job Opportunities','pages/jobs.html')
+			('About','/pages/about.html'),
+			('Job Opportunities','/pages/jobs.html')
 			)
 
 # Blogroll
@@ -43,6 +43,7 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+RELATIVE_URLS = False
 
 
 DISPLAY_TAGS_ON_SIDEBAR=False
@@ -69,8 +70,7 @@ DISPLAY_BREADCRUMBS=False
 CUSTOM_CSS = 'static/custom.css'
 
 
-
-DIRECT_TEMPLATES=('search',) 
+DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
 
 STATIC_PATHS = ['images','css', 'downloads', 'downloads/notebooks',
                 'downloads/files','downloads/code', 'favicon.png']
