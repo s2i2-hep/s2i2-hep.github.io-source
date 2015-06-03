@@ -56,7 +56,7 @@ community.
 
   * [Brian P. Bockelman](https://github.com/bbockelm) (Co-PI) - University of Nebraska-Lincoln, Department of Computer Science and Engineering
 
-  * [Kyle Cranmer](theoryandpractice.org) (Co-PI) - New York University Department of Physics & Center for Data Science
+  * [Kyle Cranmer](theoryandpractice.org) (Co-PI) - New York University, Department of Physics & Center for Data Science
 
   * [Jinyang Li](http://www.news.cs.nyu.edu/~jinyang/) (Senior Personnel) - New York University, Computer Science Department
 
