@@ -66,6 +66,14 @@ BOOTSTRAP_THEME='cosmo'
 #BOOTSTRAP_THEME='paper'
 DISPLAY_BREADCRUMBS=False
 
+BOOTSTRAP_NAVBAR_INVERSE =True
+BANNER="images/diana-hep-06-banner.png"
+BANNER_TITLE=None
+BANNER_SUBTITLE = None
+BANNER_ALL_PAGES = False
+
+
+
 #custom CSS
 CUSTOM_CSS = 'static/custom.css'
 

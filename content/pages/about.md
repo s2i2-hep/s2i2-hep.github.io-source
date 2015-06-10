@@ -10,6 +10,42 @@ Summary: Summary of the DIANA Project
 ### Project Overview
 
 Advanced software plays a fundamental role in large 
+scientific projects. The primary goal of DIANA/HEP is to develop 
+state-of-the-art tools for
+experiments which acquire, reduce, and analyze petabytes of data.
+Improving performance, interoperability, and collaborative tools
+through modifications and additions to ROOT and other packages broadly used by the
+community will allow users to more fully exploit the data being
+acquired at CERN's Large Hadron Collider (LHC) and other facilities.
+As part of the NSF's [Software Infrastructure for Sustained Innovation (SI2)](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504817) program, DIANA is concerned with the overarching goal of transforming innovations in research and education into sustained software resources that are an integral part of the cyberinfrastructure.
+
+<!--
+### Focus Areas
+
+   *  increase the CPU and IO performance needed to reduce
+the iteration time so crucial to exploring new ideas, 
+
+   *  develop
+software to effectively exploit emerging many- and multi-core
+hardware,
+
+   * establish infrastructure for a higher-level of
+collaborative analysis, building on the successful patterns used
+for the Higgs boson discovery and enabling a deeper communication
+between the theoretical community and the experimental community,
+
+   * streamline efforts associated to reproducibility, analysis preservation, and data preservation by making these native concepts in the tools, 
+
+   * promote the concept of software as a research product,
+
+   *  improve the interoperability of HEP tools with the larger scientific software
+ecosystem, incorporating best practices and algorithms from other disciplines into HEP, and
+
+   *  provide training for students in these techniques.
+-->
+
+<!--
+Advanced software plays a fundamental role in large 
 scientific projects. The primary goal of DIANA/HEP (Data Intensive ANAlysis
 for High Energy Physics) is to develop state-of-the-art tools for
 experiments which acquire, reduce, and analyze petabytes of data.
@@ -49,6 +85,7 @@ insights, tools, and novel ideas related to collaborative analysis,
 standards for data preservation, and best practices for treating
 software as a research product available to the larger scientific
 community.
+-->
 
 ### PROJECT PERSONNEL
 
@@ -77,6 +114,6 @@ community.
 
 ### Acknowledgement
 
-This project is supported by [National Science Foundation](http://nsf.gov) grants ACI-1450310, ACI-1450319, ACI-1450323, and ACI-1450377 . Any opinions, findings, conclusions or recommendations expressed in this material are those of the developers and do not necessarily reflect the views of the National Science Foundation.
+This project is supported by [National Science Foundation](http://nsf.gov) grants ACI-1450310, ACI-1450319, ACI-1450323, and ACI-1450377. Any opinions, findings, conclusions or recommendations expressed in this material are those of the developers and do not necessarily reflect the views of the National Science Foundation.
 
 

@@ -19,11 +19,11 @@ Summary: Job Opportunities
 
 ### Openings
 
-   * RIO
+   * Research Assistant at Princeton University - [link to job ad](diana-hep.org)
 
-   * Emerging Architectures
+   * Research Assistant at New York University - [link to job ad](diana-hep.org)
 
-   * Interoperability with the Scientific Python Ecosystem
+   * Research Assistant at University of Cincinnati - [link to job ad](diana-hep.org)
 
-   * Collaborative Analysis Tools
+   * Research Assistant at University of Nebraska-Lincoln - [link to job ad](diana-hep.org)
 
