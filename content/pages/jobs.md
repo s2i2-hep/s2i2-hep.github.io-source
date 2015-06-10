@@ -6,5 +6,5 @@ Summary: Job Opportunities
 
 ### Openings
 
-Coming soon!
+Coming soon: positions with Cincinnati, Nebraska, NYU and Princeton...
 
