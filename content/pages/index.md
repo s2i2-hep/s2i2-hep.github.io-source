@@ -8,9 +8,7 @@ Summary: Summary of the DIANA Project
 
 <!-- using bootstrap3 grid layout here -->
 
-<!--
-<a href=""></a><img src="images/diana-hep-06-logo-horizontal.png" width="300" alt="diana logo" />
--->
+<img src="images/diana-hep-06-logo-horizontal.png" width="300" alt="diana logo by antarctic design" />
 
 <!--The primary goal of DIANA/HEP (Data Intensive ANAlysis for High Energy Physics)
 is developing state-of-the-art tools for experiments which acquire,
