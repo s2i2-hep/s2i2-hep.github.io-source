@@ -101,7 +101,7 @@ community.
 
 ### Advisory Board
 
-  * [Amber Boehnlein](https://www.linkedin.com/pub/amber-boehnlein/37/282/947) - Head of Scientific Computing at SLAC National Accelerator Laboratory
+  * [Amber Boehnlein](https://www.linkedin.com/pub/amber-boehnlein/37/282/947) - CIO, Thomas Jefferson National Accelerator Facility
 
   * [Katherine Copic](https://www.linkedin.com/in/kcopic) - Director of Growth, [Insight Data Science](http://insightdatascience.com)
 
