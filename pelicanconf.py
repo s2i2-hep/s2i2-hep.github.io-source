@@ -18,7 +18,8 @@ TRANSLATION_FEED_ATOM = None
 DISPLAY_PAGES_ON_MENU =False
 MENUITEMS = (
 			('About','/pages/about.html'),
-			('Job Opportunities','/pages/jobs.html')
+			('Job Opportunities','/pages/jobs.html'),
+            ('Blog','/archives.html')
 			)
 
 # Blogroll
@@ -90,7 +91,7 @@ EXTRA_PATH_METADATA = {
 
 CODE_DIR = 'downloads/code'
 NOTEBOOK_DIR = 'downloads/notebooks'
-
+FAVICON= "images/favicon.ico"
 
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
