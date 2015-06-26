@@ -18,7 +18,8 @@ TRANSLATION_FEED_ATOM = None
 DISPLAY_PAGES_ON_MENU =False
 MENUITEMS = (
 			('About','/pages/about.html'),
-			('Job Opportunities','/pages/jobs.html')
+			('Job Opportunities','/pages/jobs.html'),
+            ('Blog','/archives.html')
 			)
 
 # Blogroll
@@ -50,7 +51,7 @@ DISPLAY_TAGS_ON_SIDEBAR=False
 DISPLAY_RECENT_POSTS_ON_SIDEBAR=True
 
 
-THEME = 'pelican-bootstrap3'
+THEME = '../pelican-bootstrap3-dianahep'
 #THEME = 'notmyidea'
 PYGMENTS_STYLE='default'
 #PYGMENTS_STYLE='friendly'
@@ -90,7 +91,7 @@ EXTRA_PATH_METADATA = {
 
 CODE_DIR = 'downloads/code'
 NOTEBOOK_DIR = 'downloads/notebooks'
-
+FAVICON= "images/favicon.ico"
 
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
