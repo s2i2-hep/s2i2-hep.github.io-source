@@ -51,7 +51,7 @@ DISPLAY_TAGS_ON_SIDEBAR=False
 DISPLAY_RECENT_POSTS_ON_SIDEBAR=True
 
 
-THEME = '../pelican-bootstrap3-dianahep'
+THEME = 'pelican-bootstrap3'
 #THEME = 'notmyidea'
 PYGMENTS_STYLE='default'
 #PYGMENTS_STYLE='friendly'
