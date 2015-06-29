@@ -6,15 +6,16 @@ python:
 - 2.7
 install:
 - pip install -r requirements.txt --use-mirrors
-- git clone https://github.com/diana-hep/pelican-bootstrap3.git 
+- git clone https://github.com/diana-hep/pelican-bootstrap3.git
 - git clone --recursive https://github.com/getpelican/pelican-plugins
-
-script:
-- make html
 notifications:
   email:
     on_success: always
     on_failure: always
+  slack:
+    secure: cpaGMuvrpXCOZ32n9Iv2aDNH8xdTLW60Du+wGIN7sZqd9pNPcxYvVCWwpd7J8IzKoMJKfhj1QJ19bWJzSXibPj8Rnid1y8ZqNPiCYXem9Zq5BQiFJHblS1c7cL8hBgSu2KYy0AmVeqxWWDjDmPKTcDxlVOC0Yp1yF8l+69A4WN7uDHwtEKIdH36OQk3rO2yVux/iDIdODB+akaJ9SkPc5kTWUoScAq7TYKyUzaRR4Sk0Ox/YK0vAtHYu1t4c1rJ4CCRQo2meBQi1E9I0VllvyZuFtcre3cGtzxYj5YfUbvbEwUdzkC06UIXE5AGooXerrA24W+LaIKEjpv+4s4Srbjy4pJxphI1fGUl+nOU9U58AKjrty0fP7gdu14gGwlzCC9crF/xHHOxXCxfCmd66cruevFUgYmC3RoeSHsU7hBLTrPadXPoarR0IgHv4AJQllo9gCsLUIsr6WRO2H3ibgO9gCgSq/RlIh5TwHut7QpgDhLe977R5myYHlypiQ1eCC5n8vRdD3Yu85f8DFWCmmDOKTKdJ16VDxG3TymiaLa+nEfhCWjj40I3RXqiF/oGInWiu/SyEeKA8mYXy8EVu23X4Ir/vFkiR5TXyC3ajFYvFyiaHCkCq/5Gk6bKYHenwoFl0K5dApvkNeKW+g4XvOgRHu5/KvTjPu/iCjUkO9Vg=
+script:
+- make html
 env:
   global:
   - secure: W9jdJcVLMok2QnSWn94bkBZL6yiP88paWBSQvj5pNwx6rMA/KAuAmEDTmxWCRpvte9CP1mTpPgNRwn7UhhmZsw4f1AKEAClxNbpbVUhiISW+LoVmlkhw//fp+qGplhun2ID9sJpfjsgun5Ue4+dcpvI2rHP17lC5ZgJBj3fx85M=
