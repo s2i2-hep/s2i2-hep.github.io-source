@@ -19,7 +19,7 @@ DISPLAY_PAGES_ON_MENU =False
 MENUITEMS = (
 			('About','/pages/about.html'),
 			('Job Opportunities','/pages/jobs.html'),
-            ('Blog','/archives.html')
+            ('Blog','/category/blog.html')
 			)
 
 # Blogroll
