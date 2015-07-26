@@ -10,7 +10,22 @@ Coming soon: positions with Cincinnati, Nebraska, NYU and Princeton...
 
 ### Cincinnati
 
-Coming soon.
+The Department of Physics at the University of Cincinnati is currently seeking qualified applicants for the position of 
+Sr. Research Associate or Research Scientist (title to be finalized following review of applicants' backgrounds, 
+experience and qualifications). Candidates should have significant software development experience, and preferably 
+expertise in flavor physics. The job responsibilities fall into two categories: (i) helping develop state-of-the-art 
+software tools for high energy physics (and other data-intensive) experiments as part of the the NSF-funded DIANA/HEP 
+project and (ii) working as a member of the LHCb collaboration at CERN. The work on LHCb will have 
+two components: service work as part of the core computing group and data analysis. The details of all assignments will 
+be determined by negotiation between the individual hired and the grant Principal Investigator (Dr. Michael Sokoloff).
+
+All applications received by August 14, 2015 will receive full consideration.
+
+*PLEASE NOTE*: This position is based in Geneva, Switzerland to facilitate working at CERN.
+Interested and qualified applicants must complete an online application and submit a curriculm vitae/resume by visiting [http://www.uc.edu/hr/toolkits/opportunities.html](http://www.uc.edu/hr/toolkits/opportunities.html) and then searching for Requisition #5586. For additional information, please send e-mail to [mike.sokoloff@uc.edu](mailto:mike.sokoloff@uc.edu). Applications will be reviewed and considered as they are received.
+
+The University of Cincinnati is an Affirmative Action / Equal Opportunity Employer / M / F / Vet / Disabled.
+
 
 ### Nebraska
 
