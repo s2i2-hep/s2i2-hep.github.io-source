@@ -22,7 +22,8 @@ be determined by negotiation between the individual hired and the grant Principa
 All applications received by August 14, 2015 will receive full consideration.
 
 *PLEASE NOTE*: This position is based in Geneva, Switzerland to facilitate working at CERN.
-Interested and qualified applicants must complete an online application and submit a curriculm vitae/resume by visiting [http://www.uc.edu/hr/toolkits/opportunities.html](http://www.uc.edu/hr/toolkits/opportunities.html) and then searching for Requisition #5586. For additional information, please send e-mail to [mike.sokoloff@uc.edu](mailto:mike.sokoloff@uc.edu). Applications will be reviewed and considered as they are received.
+
+Interested and qualified applicants must complete an online application and submit a curriculm vitae/resume by visiting [this link](http://tinyurl.com/q8bmrt6) (or go to [http://www.uc.edu/hr/toolkits/opportunities.html](http://www.uc.edu/hr/toolkits/opportunities.html) and search for Requisition #5586). For additional information, please send e-mail to [mike.sokoloff@uc.edu](mailto:mike.sokoloff@uc.edu). Applications will be reviewed and considered as they are received.
 
 The University of Cincinnati is an Affirmative Action / Equal Opportunity Employer / M / F / Vet / Disabled.
 
