@@ -60,6 +60,7 @@ NYU is an Equal Opportunity/Affirmative Action Employer, and encourages applicat
 ### Princeton
 
 Associate Professional Specialists(s)/Professional Specialist(s)
+
 Computational Physicist and/or Scientific Application Developer
 
 Position Summary:
@@ -77,9 +78,10 @@ among the largest in the world.
 Successful candidates will play a leadership role in developing the
 software and computing systems to meet the challenges of high energy
 physics experiments. Successful candidates will be members of the
-DIANA/HEP project team (http://diana-hep.org) and the CMS experiment
-(http://cms.web.cern.ch) at the Large Hadron Collider at the European
-Laboratory for Particle Physics (CERN) in Geneva, Switzerland. The
+[DIANA/HEP project team](http://diana-hep.org) and the 
+[CMS experiment](http://cms.web.cern.ch) at the Large Hadron Collider at 
+the [European Laboratory for Particle Physics (CERN)](http://home.web.cern.ch/)
+in Geneva, Switzerland. The
 DIANA/HEP project aims to develop state-of-the-art data analysis
 tools for experiments which acquire, reduce, and analyze petabytes
 of data.  DIANA/HEP focuses on improving performance, increasing
@@ -111,23 +113,35 @@ For additional information, please contact Dr. Peter Elmer
 (Peter.Elmer@cern.ch).
 
 Essential Qualifications:
+
   * Academic preparation:
+
      * Ph.D. in Experimental Particle Physics or a closely related field, or
+
      * Advanced degree in Computer Science with 5 years or more
        experience with scientific software applications
+
   * Strong programming skills, in particular with C++ and Python
+
   * Experience developing large-scale scientific software applications,
     in particular involving or contributing to one or more of the following:
+
       * Analysis of large datasets
+
       * Open source machine learning or data mining software toolkits,
         and/or the scientific python ecosystem
+
       * Monte Carlo detector simulations
+
       * Pattern recognition techniques relevant for high energy and
         nuclear physics detectors
+
   * Strong interpersonal, oral, and written communication skills.
 
 Preferred Qualifications:
+
   * Ability to direct efforts of others within teams of various sizes
+
   * Experience working in large, international scientific or
     open-source software collaborations and delivering software in
     such contexts
