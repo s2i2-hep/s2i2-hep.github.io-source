@@ -4,8 +4,6 @@ slug: jobs.html
 Authors: Kyle Cranmer
 Summary: Job Opportunities
 
-### Openings
-
 ### Cincinnati
 
 The Department of Physics at the University of Cincinnati is currently seeking qualified applicants for the position of 
