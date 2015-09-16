@@ -121,7 +121,7 @@ Preferred Qualifications:
     open-source software collaborations and delivering software in
     such contexts
 
-To apply online please visit http://physics.princeton.edu/jobs and
+To apply online please visit [http://physics.princeton.edu/jobs](http://physics.princeton.edu/jobs) and
 submit a cover letter, CV and contact information for three references.
 These positions are subject to the University’s background check
 policy.
