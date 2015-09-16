@@ -41,7 +41,7 @@ Computational Physicist and/or Scientific Application Developer
 Position Summary:
 
 Princeton University is seeking two Professional Specialists to
-work with the High Energy Experiment group in the Physics Department.
+work with the [High Energy Experiment group](http://www.princeton.edu/physics/research/high-energy-experiment/) in the Physics Department.
 High Energy Physics (HEP) focuses on understanding the elementary
 particles that are the fundamental constituents of matter and their
 interactions.  Obtaining scientific results from these high energy
@@ -77,8 +77,8 @@ successful candidate(s). Appointments will be made at either the
 Associate Professional Specialist or Professional Specialist rank,
 depending on the candidate's credentials.
 
-These positions will likely be based at CERN, in Geneva, Switzerland,
-or at Fermilab, near Chicago, subject to negotiation with the
+These positions will likely be based at [CERN](http://home.web.cern.ch/), in Geneva, Switzerland,
+or at [Fermilab](http://fnal.gov/), near Chicago, subject to negotiation with the
 principal investigator. Occasional travel to conferences and workshops
 will be required. The initial appointment will be for one year,
 with the possibility of renewal subject to satisfactory performance
