@@ -30,7 +30,7 @@ Coming soon.
 
 ### NYU
 
-(Position filled.)
+Position already filled.
 
 ### Princeton
 
