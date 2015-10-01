@@ -34,7 +34,9 @@ LINKS =  (('ROOT', 'https://root.cern.ch/drupal/'),
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/diana_hep'),
-          ('github', 'http://github.com/diana-hep'),)
+          ('github', 'http://github.com/diana-hep'),
+          ('Indico', 'https://indico.cern.ch/category/7192/'),
+          ('Vidyo', 'https://vidyoportal.cern.ch/flex.html?roomdirect.html&key=g24IFWEdhejzHVy851PztEh82e4'),)
 
 CC_LICENSE="CC-BY"
 
