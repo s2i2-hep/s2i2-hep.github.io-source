@@ -107,12 +107,11 @@ community.
 
 ### Advisory Board
 
-  * [Amber Boehnlein](https://www.linkedin.com/pub/amber-boehnlein/37/282/947) - CIO, Thomas Jefferson National Accelerator Facility
+  * [Amber Boehnlein](https://www.jlab.org/div_dept/directorate/directors/ABoehnlein.html) - CIO, Thomas Jefferson National Accelerator Facility
 
   * [Katherine Copic](https://www.linkedin.com/in/kcopic) - Director of Growth, [Insight Data Science](http://insightdatascience.com)
 
-
-  * [Jacob VanderPlas](http://www.astro.washington.edu/users/vanderplas/) - Director of Research, Physical Sciences, eScience Institute, University of Washington  
+  * [Jacob VanderPlas](http://staff.washington.edu/jakevdp/) - Director of Research, Physical Sciences, eScience Institute, University of Washington  
 
   * [Fernando Pérez](http://fperez.org) - Staff Scientist, Data Science and Technology Division, Lawrence Berkeley National Laboratory; Associate Researcher, Berkeley Institute for Data Science, UC Berkeley.
 
