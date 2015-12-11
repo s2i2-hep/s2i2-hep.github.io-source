@@ -102,7 +102,7 @@ community.
 
   * Eduardo Rodrigues - University of Cincinnati, Department of Physics (from Feb. 2016)
 
-  * [Michael D. Sokoloff](http://www.physics.uc.edu/~sokoloff/) (Co-PI) - University of Cincinnati, Department of Physics
+  * [Michael D. Sokoloff](http://www.artsci.uc.edu/departments/physics/fac_staff.html?eid=sokoloff&thecomp=uceprof) (Co-PI) - University of Cincinnati, Department of Physics
 
 
 ### Advisory Board
