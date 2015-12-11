@@ -87,7 +87,7 @@ software as a research product available to the larger scientific
 community.
 -->
 
-### PROJECT PERSONNEL
+### PROJECT TEAM
 
   * [Peter Elmer](http://www.princeton.edu/physics/people/display_person.xml?netid=gelmer&display=Research%20Staff) (PI) - Princeton University, Department of Physics
 
@@ -95,9 +95,18 @@ community.
 
   * [Kyle Cranmer](theoryandpractice.org) (Co-PI) - New York University, Department of Physics & Center for Data Science
 
+  * David Lange - Princeton University, Department of Physics (from Feb. 2016)
+
   * [Jinyang Li](http://www.news.cs.nyu.edu/~jinyang/) (Senior Personnel) - New York University, Computer Science Department
 
+  * [Gilles Louppe](http://www.montefiore.ulg.ac.be/~glouppe/) - New York University, Department of Physics & Center for Data Science
+
+  * James Pivarski - Princeton University, Department of Physics (from Feb. 2016)
+
+  * Eduardo Rodrigues - University of Cincinnati, Department of Physics (from Feb. 2016)
+
   * [Michael D. Sokoloff](http://www.physics.uc.edu/~sokoloff/) (Co-PI) - University of Cincinnati, Department of Physics
+
 
 ### Advisory Board
 
