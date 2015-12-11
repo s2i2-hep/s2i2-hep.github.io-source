@@ -6,9 +6,6 @@ Summary: Summary of the DIANA Project
 
 
 
-
-### Project Overview
-
 Advanced software plays a fundamental role in large 
 scientific projects. The primary goal of DIANA/HEP is to develop 
 state-of-the-art tools for
@@ -87,13 +84,13 @@ software as a research product available to the larger scientific
 community.
 -->
 
-### PROJECT TEAM
+### Project Team
 
   * [Peter Elmer](http://www.princeton.edu/physics/people/display_person.xml?netid=gelmer&display=Research%20Staff) (PI) - Princeton University, Department of Physics
 
   * [Brian P. Bockelman](https://github.com/bbockelm) (Co-PI) - University of Nebraska-Lincoln, Department of Computer Science and Engineering
 
-  * [Kyle Cranmer](theoryandpractice.org) (Co-PI) - New York University, Department of Physics & Center for Data Science
+  * [Kyle Cranmer](http://theoryandpractice.org) (Co-PI) - New York University, Department of Physics & Center for Data Science
 
   * David Lange - Princeton University, Department of Physics (from Feb. 2016)
 
@@ -120,6 +117,8 @@ community.
   * [Fernando Pérez](http://fperez.org) - Staff Scientist, Data Science and Technology Division, Lawrence Berkeley National Laboratory; Associate Researcher, Berkeley Institute for Data Science, UC Berkeley.
 
   * [Attanagoda Santha](https://www.linkedin.com/pub/attanagoda-santha/60/aba/399) - Architect, Fannie Mae
+
+### Collaborators
 
 ### Acknowledgement
 
