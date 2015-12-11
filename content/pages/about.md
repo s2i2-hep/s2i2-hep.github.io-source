@@ -96,7 +96,7 @@ community.
 
   * [Jinyang Li](http://www.news.cs.nyu.edu/~jinyang/) (Senior Personnel) - New York University, Computer Science Department
 
-  * [Gilles Louppe](http://www.montefiore.ulg.ac.be/~glouppe/) - New York University, Department of Physics & Center for Data Science
+  * [Gilles Louppe](https://glouppe.github.io/) - New York University, Department of Physics & Center for Data Science
 
   * James Pivarski - Princeton University, Department of Physics (from Feb. 2016)
 
