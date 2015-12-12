@@ -92,17 +92,17 @@ community.
 
   * [Kyle Cranmer](http://theoryandpractice.org) (Co-PI) - New York University, Department of Physics & Center for Data Science
 
+  * [Michael D. Sokoloff](http://www.artsci.uc.edu/departments/physics/fac_staff.html?eid=sokoloff&thecomp=uceprof) (Co-PI) - University of Cincinnati, Department of Physics
+
   * David Lange - Princeton University, Department of Physics (from Feb. 2016)
 
   * [Jinyang Li](http://www.news.cs.nyu.edu/~jinyang/) (Senior Personnel) - New York University, Computer Science Department
 
   * [Gilles Louppe](https://glouppe.github.io/) - New York University, Department of Physics & Center for Data Science
 
-  * James Pivarski - Princeton University, Department of Physics (from Feb. 2016)
+  * [James Pivarski](https://github.com/jpivarski) - Princeton University, Department of Physics (from Feb. 2016)
 
   * Eduardo Rodrigues - University of Cincinnati, Department of Physics (from Feb. 2016)
-
-  * [Michael D. Sokoloff](http://www.artsci.uc.edu/departments/physics/fac_staff.html?eid=sokoloff&thecomp=uceprof) (Co-PI) - University of Cincinnati, Department of Physics
 
 
 ### Advisory Board
