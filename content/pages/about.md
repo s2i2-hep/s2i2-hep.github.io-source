@@ -94,9 +94,9 @@ community.
 
   * [Michael D. Sokoloff](http://www.artsci.uc.edu/departments/physics/fac_staff.html?eid=sokoloff&thecomp=uceprof) (Co-PI) - University of Cincinnati, Department of Physics
 
-  * David Lange - Princeton University, Department of Physics (from Feb. 2016)
-
   * [Jinyang Li](http://www.news.cs.nyu.edu/~jinyang/) (Senior Personnel) - New York University, Computer Science Department
+
+  * David Lange - Princeton University, Department of Physics (from Feb. 2016)
 
   * [Gilles Louppe](https://glouppe.github.io/) - New York University, Department of Physics & Center for Data Science
 
