@@ -102,7 +102,7 @@ community.
 
   * [James Pivarski](https://github.com/jpivarski) - Princeton University, Department of Physics (from Feb. 2016)
 
-  * Eduardo Rodrigues - University of Cincinnati, Department of Physics (from Feb. 2016)
+  * [Eduardo Rodrigues](http://cern.ch/eduardo.rodrigues) - University of Cincinnati, Department of Physics (from Feb. 2016)
 
 
 ### Advisory Board
