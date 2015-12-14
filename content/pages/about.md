@@ -5,7 +5,6 @@ Authors: Kyle Cranmer
 Summary: Summary of the DIANA Project
 
 
-
 Advanced software plays a fundamental role in large 
 scientific projects. The primary goal of DIANA/HEP is to develop 
 state-of-the-art tools for
