@@ -9,7 +9,7 @@ install:
 - git clone https://github.com/diana-hep/pelican-bootstrap3.git
 - git clone --recursive https://github.com/getpelican/pelican-plugins
 - wget http://www.tipue.com/search/tipuesearch.zip
-- gunzip tipuesearch.zip
+- unzip tipuesearch.zip
 - cp -r Tipue\ Search\ 5.0/tipuesearch pelican-bootstrap3/static/tipuesearch/
 notifications:
   email:
