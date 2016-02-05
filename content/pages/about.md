@@ -95,13 +95,13 @@ community.
 
   * [Jinyang Li](http://www.news.cs.nyu.edu/~jinyang/) (Senior Personnel) - New York University, Computer Science Department
 
-  * David Lange - Princeton University, Department of Physics (from Feb. 2016)
+  * David Lange - Princeton University, Department of Physics
 
   * [Gilles Louppe](https://glouppe.github.io/) - New York University, Department of Physics & Center for Data Science
 
-  * [James Pivarski](https://github.com/jpivarski) - Princeton University, Department of Physics (from Feb. 2016)
+  * [James Pivarski](https://github.com/jpivarski) - Princeton University, Department of Physics
 
-  * [Eduardo Rodrigues](http://cern.ch/eduardo.rodrigues) - University of Cincinnati, Department of Physics (from Feb. 2016)
+  * [Eduardo Rodrigues](http://cern.ch/eduardo.rodrigues) - University of Cincinnati, Department of Physics
 
 
 ### Advisory Board
