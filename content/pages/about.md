@@ -85,13 +85,13 @@ community.
 
 ### Project Team
 
-  * [Peter Elmer](http://www.princeton.edu/physics/people/display_person.xml?netid=gelmer&display=Research%20Staff) (PI) - Princeton University, Department of Physics
+  * [Peter Elmer](http://www.princeton.edu/physics/people/display_person.xml?netid=gelmer&display=Research%20Staff) (Lead PI) - Princeton University, Department of Physics
 
-  * [Brian P. Bockelman](https://github.com/bbockelm) (Co-PI) - University of Nebraska-Lincoln, Department of Computer Science and Engineering
+  * [Brian P. Bockelman](https://github.com/bbockelm) (PI) - University of Nebraska-Lincoln, Department of Computer Science and Engineering
 
-  * [Kyle Cranmer](http://theoryandpractice.org) (Co-PI) - New York University, Department of Physics & Center for Data Science
+  * [Kyle Cranmer](http://theoryandpractice.org) (PI) - New York University, Department of Physics & Center for Data Science
 
-  * [Michael D. Sokoloff](http://www.artsci.uc.edu/departments/physics/fac_staff.html?eid=sokoloff&thecomp=uceprof) (Co-PI) - University of Cincinnati, Department of Physics
+  * [Michael D. Sokoloff](http://www.artsci.uc.edu/departments/physics/fac_staff.html?eid=sokoloff&thecomp=uceprof) (PI) - University of Cincinnati, Department of Physics
 
   * [Jinyang Li](http://www.news.cs.nyu.edu/~jinyang/) (Senior Personnel) - New York University, Computer Science Department
 
