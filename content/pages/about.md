@@ -103,6 +103,10 @@ community.
 
   * [Eduardo Rodrigues](http://cern.ch/eduardo.rodrigues) - University of Cincinnati, Department of Physics
 
+  * Zhe Zhang - University of Nebraska-Lincoln, Department of Computer Science and Engineering (Ph.D. Student)
+
+  * Chien-Chin Huang - New York University, Computer Science Department (Ph.D. Student)
+
 
 ### Advisory Board
 
