@@ -34,7 +34,7 @@ LINKS =  (('ROOT', 'https://root.cern.ch/drupal/'),
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/diana_hep'),
-          ('github', 'http://github.com/diana-hep'),
+          ('github', 'http://github.com/s2i2-hep'),
           ('Indico', 'https://indico.cern.ch/category/7192/'),
           ('Vidyo Room', 'https://vidyoportal.cern.ch/flex.html?roomdirect.html&key=g24IFWEdhejzHVy851PztEh82e4'),)
 
@@ -69,7 +69,7 @@ BOOTSTRAP_THEME='cosmo'
 DISPLAY_BREADCRUMBS=False
 
 BOOTSTRAP_NAVBAR_INVERSE =True
-BANNER="images/diana-hep-06-banner.png"
+BANNER="images/s2i2-hep-06-banner.png"
 BANNER_TITLE=None
 BANNER_SUBTITLE = None
 BANNER_ALL_PAGES = False
@@ -102,13 +102,13 @@ PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
 
 
 # comments
-DISQUS_SITENAME="diana-hep"
+DISQUS_SITENAME="s2i2-hep"
 
 ''' For reference, this code
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = 'diana-hep';
+    var disqus_shortname = 's2i2-hep';
     
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {
