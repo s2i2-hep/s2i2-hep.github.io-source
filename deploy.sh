@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 BRANCH=master
-TARGET_REPO=diana-hep/diana-hep.github.io.git
+TARGET_REPO=s2i2-hep/s2i2-hep.github.io.git
 PELICAN_OUTPUT_FOLDER=output
 
 echo -e "Testing travis-encrypt"
