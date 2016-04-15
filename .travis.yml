@@ -5,9 +5,13 @@ language: python
 python:
 - 2.7
 install:
+- pwd
 - pip install -r requirements.txt --use-mirrors
+- pwd
 - git clone https://github.com/s2i2-hep/pelican-bootstrap3.git
 - git clone --recursive https://github.com/getpelican/pelican-plugins
+- pwd
+- ls
 - wget http://www.tipue.com/search/tipuesearch.zip
 - unzip tipuesearch.zip
 - cp -r Tipue\ Search\ 5.0/tipuesearch pelican-bootstrap3/static/
