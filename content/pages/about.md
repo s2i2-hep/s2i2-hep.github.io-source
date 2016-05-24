@@ -126,4 +126,9 @@ community.
 
 This project is supported by [National Science Foundation](http://nsf.gov) grants ACI-1450310, ACI-1450319, ACI-1450323, and ACI-1450377. Any opinions, findings, conclusions or recommendations expressed in this material are those of the developers and do not necessarily reflect the views of the National Science Foundation.
 
+### Presentations
 
+  * 23 May 2016 - [Chains of functional primitives](https://indico.cern.ch/event/535391/contributions/2175710/attachments/1277373/1895792/main.pdf), Jim Pivarski, [ROOT Team Meeting](https://indico.cern.ch/event/535391/)
+  * 18 Apr 2016 - [Introduction to DIANA/HEP](https://indico.cern.ch/event/522334/contributions/2139399/attachments/1259588/1860828/20160418-DIANA-Intro-for-SFT.pdf), Peter Elmer, [ROOT Team Meeting](https://indico.cern.ch/event/522334/)
+  * 7 Mar 2016 - [Computing practices observed in industry](https://indico.cern.ch/event/506676/contributions/2026887/subcontributions/182833/attachments/1239682/1822212/pivarski-industry-practices.pdf), Jim Pivarski, [ROOT Team Meeting](https://indico.cern.ch/event/506676/)
+  * 7 Mar 2016 - [ROOT-Spark integration](https://indico.cern.ch/event/506676/contributions/2026887/subcontributions/182833/attachments/1239682/1822213/pivarski-spark-progress.pdf), Jim Pivarski, [ROOT Team Meeting](https://indico.cern.ch/event/506676/)
