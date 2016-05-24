@@ -128,13 +128,17 @@ community.
 
 This project is supported by [National Science Foundation](http://nsf.gov) grants ACI-1450310, ACI-1450319, ACI-1450323, and ACI-1450377. Any opinions, findings, conclusions or recommendations expressed in this material are those of the developers and do not necessarily reflect the views of the National Science Foundation.
 
-### Presentations
+### Presentations by the DIANA team
 
   * 23 May 2016 - [](), John Doe, []()
 
-  * 2 May 2016 - [Introduction to DIANA/HEP](https://indico.cern.ch/event/496146/contributions/1174783/attachments/1266789/1875534/20160502-DIANA-Intro-for-HSF.pdf), Peter Elmer, [HEP Software Foundation Workshop](https://indico.cern.ch/event/496146/timetable/)
+  * 19 May 2016 - [The DIANA-HEP Project](https://indico.cern.ch/event/506353/contributions/2150030/attachments/1276098/1893268/pivarski_dianahep.pdf), Jim Pivarski, [US-CMS Collaboration Meeting](https://indico.cern.ch/event/506353/timetable/)
 
   * 23 May 2016 - [Chains of functional primitives](https://indico.cern.ch/event/535391/contributions/2175710/attachments/1277373/1895792/main.pdf), Jim Pivarski, [ROOT Team Meeting](https://indico.cern.ch/event/535391/)
+
+  * 25 Apr 2016 - [Histogramming in map-reduce](https://indico.cern.ch/event/516438/contributions/1196302/attachments/1263150/1868229/pivarski_histogramming.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/516438/)
+
+  * 2 May 2016 - [Introduction to DIANA/HEP](https://indico.cern.ch/event/496146/contributions/1174783/attachments/1266789/1875534/20160502-DIANA-Intro-for-HSF.pdf), Peter Elmer, [HEP Software Foundation Workshop](https://indico.cern.ch/event/496146/timetable/)
 
   * 18 Apr 2016 - [Introduction to DIANA/HEP](https://indico.cern.ch/event/522334/contributions/2139399/attachments/1259588/1860828/20160418-DIANA-Intro-for-SFT.pdf), Peter Elmer, [ROOT Team Meeting](https://indico.cern.ch/event/522334/)
 
