@@ -10,7 +10,8 @@ scientific projects. The primary goal of DIANA/HEP is to develop
 state-of-the-art tools for
 experiments which acquire, reduce, and analyze petabytes of data.
 Improving performance, interoperability, and collaborative tools
-through modifications and additions to ROOT and other packages broadly used by the
+through modifications and additions to ROOT and other packages broadly
+used by the
 community will allow users to more fully exploit the data being
 acquired at CERN's Large Hadron Collider (LHC) and other facilities.
 As part of the NSF's [Software Infrastructure for Sustained Innovation (SI2)](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504817) program, DIANA is concerned with the overarching goal of transforming innovations in research and education into sustained software resources that are an integral part of the cyberinfrastructure.
