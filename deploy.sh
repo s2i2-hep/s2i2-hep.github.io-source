@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env bash -x
 BRANCH=master
 TARGET_REPO=s2i2-hep/s2i2-hep.github.io.git
 PELICAN_OUTPUT_FOLDER=output
