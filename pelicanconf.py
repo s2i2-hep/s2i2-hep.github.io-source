@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'DIANA HEP'
-SITENAME = u'DIANA HEP'
+AUTHOR = u'S2I2 HEP'
+SITENAME = u'S2I2 HEP'
 SITEURL = ''
 
 TIMEZONE = 'Europe/Paris'
@@ -23,13 +23,8 @@ MENUITEMS = (
 			)
 
 # Blogroll
-LINKS =  (('ROOT', 'https://root.cern.ch/drupal/'),
-		  ('NSF SI2','http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504817'),
-		  ('RooStats','https://twiki.cern.ch/twiki/bin/view/RooStats/WebHome'),
-		  ('GooFit','https://github.com/GooFit/GooFit'),
-		  ('rootpy','http://www.rootpy.org'),
-		  ('AstroPy','http://www.astropy.org'),
-		  ('scikit-learn','http://scikit-learn.org/stable/'),
+LINKS =  (('NSF SI2','http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504817'),
+		  ('DIANA/HEP','http://diana-hep.org'),
 		  )
 
 # Social widget
