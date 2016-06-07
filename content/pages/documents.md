@@ -10,11 +10,13 @@ Summary: Documents
 
 ### Previous Community Documents
 
-  * [High Energy Physics Forum for Computational Excellence: Working Group Reports (I. Applications Software II. Software Libraries and Tools III. Systems)](http://arxiv.org/abs/1510.08545)
+  * DOE - [High Energy Physics Forum for Computational Excellence: Working Group Reports (I. Applications Software II. Software Libraries and Tools III. Systems)](http://arxiv.org/abs/1510.08545)
 
-  * [HEP-FCE Working Group on Libraries and Tools](http://arxiv.org/abs/1506.01309)
+<!---  * [HEP-FCE Working Group on Libraries and Tools](http://arxiv.org/abs/1506.01309) --->
 
-  * [Planning the Future of U.S. Particle Physics (Snowmass 2013): Chapter 9: Computing](http://arxiv.org/abs/1401.6117)
+  * Snowmass:
 
-  * [Snowmass Computing Frontier: Software Development, Staffing and Training](http://arxiv.org/abs/1311.2567)
+    * [Planning the Future of U.S. Particle Physics (Snowmass 2013): Chapter 9: Computing](http://arxiv.org/abs/1401.6117)
+
+    * [Snowmass Computing Frontier: Software Development, Staffing and Training](http://arxiv.org/abs/1311.2567)
 
