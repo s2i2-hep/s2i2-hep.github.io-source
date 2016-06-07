@@ -6,7 +6,7 @@ Summary: Documents
 
 ### S2I2-HEP Conceptualization Documents
 
-  * [NSF Proposal - Conceptualization of an S2I2 Institute for High Energy Physics](downloads/s2i2-2015-nsf-proposal.pdf)
+  * [NSF Proposal - Conceptualization of an S2I2 Institute for High Energy Physics](../downloads/files/s2i2-2015-nsf-proposal.pdf)
 
 ### Previous Community Documents
 
