@@ -25,13 +25,12 @@ MENUITEMS = (
 # Blogroll
 LINKS =  (('NSF SI2','http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504817'),
 		  ('DIANA/HEP','http://diana-hep.org'),
-		  ('HSF','http://hepsoftwarefoundation.org'),
+		  ('HEP Software Foundation','http://hepsoftwarefoundation.org'),
 		  )
 
 # Social widget
-SOCIAL = (('twitter', 'http://twitter.com/diana_hep'),
-          ('github', 'http://github.com/s2i2-hep'),
-          ('Indico', 'https://indico.cern.ch/category/7192/'),
+SOCIAL = (('github', 'http://github.com/s2i2-hep'),
+          ('Indico', 'http://indico.cern.ch/category/5816/'),
           ('Vidyo Room', 'https://vidyoportal.cern.ch/flex.html?roomdirect.html&key=g24IFWEdhejzHVy851PztEh82e4'),)
 
 CC_LICENSE="CC-BY"
