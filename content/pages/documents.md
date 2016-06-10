@@ -4,9 +4,11 @@ slug: documents.html
 Authors: Peter Elmer
 Summary: Documents
 
-### S2I2-HEP Conceptualization Documents
+### SI2 and S2I2-HEP Conceptualization Documents
 
   * [NSF Proposal - Conceptualization of an S2I2 Institute for High Energy Physics](../downloads/files/s2i2-2015-nsf-proposal.pdf)
+
+  * [S2I2 as part of NSF's SI2 program](http://www.slideshare.net/danielskatz/scientific-software-innovation-institutes-s2i2s-as-part-of-nsfs-si2-program)
 
 ### Previous Community Documents
 
