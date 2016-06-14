@@ -56,7 +56,7 @@ html:
 	ls
 	ls pelican-plugins/liquid_tags/
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
-	#cp CNAME $(OUTPUTDIR) #added by Kyle for custom URL
+	cp CNAME $(OUTPUTDIR) #added by Kyle for custom URL
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
