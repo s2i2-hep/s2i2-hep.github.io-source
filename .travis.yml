@@ -8,7 +8,7 @@ install:
 - pwd
 - pip install -r requirements.txt --use-mirrors
 - pwd
-- git clone https://github.com/s2i2-hep/pelican-bootstrap3.git
+- git clone https://github.com/s2i2-hep/pelican-themes.git
 - git clone --recursive https://github.com/getpelican/pelican-plugins
 - pwd
 - ls
