@@ -48,7 +48,7 @@ DISPLAY_RECENT_POSTS_ON_SIDEBAR=True
 
 
 #THEME = 'pelican-themes/pelican-bootstrap3'
-THEME = 'pelican-themes/elegant'
+THEME = 'pelican-themes/backdrop'
 PYGMENTS_STYLE='default'
 #PYGMENTS_STYLE='friendly'
 #THEME = '/Users/cranmer/virtualenvs/pelican/lib/python2.7/site-packages/pelican/themes/pelican-themes'
