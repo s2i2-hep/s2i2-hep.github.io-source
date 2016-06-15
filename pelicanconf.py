@@ -74,7 +74,8 @@ BANNER_ALL_PAGES = False
 CUSTOM_CSS = 'static/custom.css'
 
 
-DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
+#DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
+DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives')
 
 STATIC_PATHS = ['images','css', 'downloads', 'downloads/notebooks',
                 'downloads/files','downloads/code', 'favicon.png']
