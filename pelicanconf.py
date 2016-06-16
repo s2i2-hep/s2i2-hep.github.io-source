@@ -19,8 +19,8 @@ DISPLAY_PAGES_ON_MENU =False
 MENUITEMS = (
 			('About','/pages/about.html'),
 			('Documents','/pages/documents.html'),
-            ('Blog','/category/blog.html')
 			)
+#            ('Blog','/category/blog.html')
 
 # Blogroll
 LINKS =  (('NSF SI2','http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504817'),
