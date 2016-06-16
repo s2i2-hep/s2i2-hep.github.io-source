@@ -32,11 +32,11 @@ LINKS =  (('NSF SI2','http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504817'),
 		  )
 
 # Social widget
+# Do not set for now, include these links in LINKS above
 #SOCIAL = (('github', 'http://github.com/s2i2-hep'),
 #          ('Indico', 'http://indico.cern.ch/category/5816/'),
 #          ('Vidyo Room', 'https://vidyoportal.cern.ch/flex.html?roomdirect.html&key=g24IFWEdhejzHVy851PztEh82e4'),)
 CC_LICENSE="CC-BY"
-
 
 DEFAULT_PAGINATION = 10
 
@@ -44,19 +44,14 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 RELATIVE_URLS = False
 
-
 DISPLAY_TAGS_ON_SIDEBAR=False
-DISPLAY_RECENT_POSTS_ON_SIDEBAR=True
-
+DISPLAY_RECENT_POSTS_ON_SIDEBAR=False
 
 THEME = 'pelican-themes/pelican-bootstrap3'
 #THEME = 'pelican-themes/backdrop'
 PYGMENTS_STYLE='default'
 #PYGMENTS_STYLE='friendly'
-#THEME = '/Users/cranmer/virtualenvs/pelican/lib/python2.7/site-packages/pelican/themes/pelican-themes'
-# This requires Pelican 3.3+
 
-#For pelican-themes
 #BOOTSTRAP_THEME='simplex'
 #BOOTSTRAP_THEME='yeti'
 #BOOTSTRAP_THEME='superhero' #nice but, background doesn't work well with code as is
@@ -69,8 +64,6 @@ BANNER="images/s2i2-hep-06-banner.png"
 BANNER_TITLE=None
 BANNER_SUBTITLE = None
 BANNER_ALL_PAGES = False
-
-
 
 #custom CSS
 CUSTOM_CSS = 'static/custom.css'

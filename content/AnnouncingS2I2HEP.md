@@ -14,4 +14,4 @@ We have created [S2I2-HEP GitHub Organization](https://github.com/s2i2-hep)
 
 ---
 
-This is a little badge to make sure the web site is healthy: ![](https://travis-ci.org/diana-hep/diana-hep.github.io-source.svg?branch=master)
+<!--- This is a little badge to make sure the web site is healthy: ![](https://travis-ci.org/diana-hep/diana-hep.github.io-source.svg?branch=master) --->
