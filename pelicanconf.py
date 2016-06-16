@@ -46,6 +46,7 @@ RELATIVE_URLS = False
 
 DISPLAY_TAGS_ON_SIDEBAR=False
 DISPLAY_RECENT_POSTS_ON_SIDEBAR=False
+#DISPLAY_ARTICLE_INFO_ON_INDEX=False
 
 THEME = 'pelican-themes/pelican-bootstrap3'
 #THEME = 'pelican-themes/backdrop'
