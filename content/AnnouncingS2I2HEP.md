@@ -1,6 +1,6 @@
-Title: Announcing DIANA
+Title: Announcing the S2I2-HEP conceptualization project
 date: 2016-06-16 10:37
-Slug: Announcing_Diana
+Slug: Announcing_S2I2
 Category: Blog
 Tags:  news
 Authors: Peter Elmer
