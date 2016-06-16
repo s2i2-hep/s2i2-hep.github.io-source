@@ -35,7 +35,6 @@ LINKS =  (('NSF SI2','http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504817'),
 #SOCIAL = (('github', 'http://github.com/s2i2-hep'),
 #          ('Indico', 'http://indico.cern.ch/category/5816/'),
 #          ('Vidyo Room', 'https://vidyoportal.cern.ch/flex.html?roomdirect.html&key=g24IFWEdhejzHVy851PztEh82e4'),)
-SOCIAL=
 CC_LICENSE="CC-BY"
 
 
