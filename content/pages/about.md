@@ -17,6 +17,8 @@ Summary: Summary of the S2I2-HEP Conceptualization Project
 
   * [Nan Niu](http://homepages.uc.edu/~niunn/) (Senior Personnel) - University of Cincinnati, Department of EECS
 
+### Collaborators
+
 ### Acknowledgement
 
 This project is supported by [National Science Foundation](http://nsf.gov) grants ACI-XYZ, ACI-XYZ, and ACI-XYZ. Any opinions, findings, conclusions or recommendations expressed in this material are those of the developers and do not necessarily reflect the views of the National Science Foundation.
