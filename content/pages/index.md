@@ -24,16 +24,16 @@ to prepare this plan, as well as a larger community white paper
 on software and computing, in collaboration with the 
 [HEP Software Foundation](http://hepsoftwarefoundation.org).
 
-/* Along the way, we will produce a big-picture model for developing
+<!--- Along the way, we will produce a big-picture model for developing
 software and computing models for use at the HL-LHC and, more
-generally, for the high energy physics (HEP) community. */
+generally, for the high energy physics (HEP) community. --->
 
-/* As part of the NSF's [Software Infrastructure for Sustained Innovation
+<!--- As part of the NSF's [Software Infrastructure for Sustained Innovation
 (SI2)](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504817)
 program, the S2I2-HEP conceptualization project is concerned with the 
 overarching goal of transforming innovations in research and education into 
 sustained software resources that are an integral part of the 
-cyberinfrastructure. */
+cyberinfrastructure. --->
 
 The S2I2-HEP conceptualization project is part of the NSF's [Software 
 Infrastructure for Sustained Innovation
