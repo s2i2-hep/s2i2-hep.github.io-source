@@ -19,21 +19,14 @@ The primary goal of the S2I2/HEP conceptualization project is to
 prepare a strategic plan for a potential Scientific Software
 Innovation Institute (S2I2) to develop software for experiments
 taking data in the "High-Luminosity Large Hadron Collider" (HL-LHC)
-era in the 2020s. To that end, we are organizing a number of workshops
-to prepare this plan, as well as a larger community white paper 
-on software and computing, in collaboration with the 
-[HEP Software Foundation](http://hepsoftwarefoundation.org).
+era in the 2020s. 
 
-<!--- Along the way, we will produce a big-picture model for developing
-software and computing models for use at the HL-LHC and, more
-generally, for the high energy physics (HEP) community. --->
-
-<!--- As part of the NSF's [Software Infrastructure for Sustained Innovation
-(SI2)](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504817)
-program, the S2I2-HEP conceptualization project is concerned with the 
-overarching goal of transforming innovations in research and education into 
-sustained software resources that are an integral part of the 
-cyberinfrastructure. --->
+To prepare the strategic plan for an NSF S2I2, as well as a larger HEP 
+community white paper on software and computing, 
+we are organizing a number of workshops
+between Fall 2016 and Summer 2017
+in collaboration with the [HEP Software
+Foundation](http://hepsoftwarefoundation.org).
 
 The S2I2-HEP conceptualization project is part of the NSF's [Software 
 Infrastructure for Sustained Innovation
