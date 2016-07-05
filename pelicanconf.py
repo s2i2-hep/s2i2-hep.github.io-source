@@ -28,6 +28,7 @@ LINKS =  (('NSF SI2','http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504817'),
 		  ('HEP Software Foundation','http://hepsoftwarefoundation.org'),
 		  ('s2i2-hep github', 'http://github.com/s2i2-hep'),
                   ('Indico', 'https://indico.cern.ch/category/7971/'),
+                  ('Google Group', 'https://groups.google.com/forum/#!forum/s2i2-hep'),
                   ('Vidyo Room', 'https://vidyoportal.cern.ch/flex.html?roomdirect.html&key=g24IFWEdhejzHVy851PztEh82e4'),
 		  )
 
