@@ -18,6 +18,8 @@ Summary: Documents
 
 <!---  * [HEP-FCE Working Group on Libraries and Tools](http://arxiv.org/abs/1506.01309) --->
 
+  * Particle Physics Project Prioritization Panel (P5) report: [Building for Discovery: Strategic Plan for U.S. Particle Physics in the Global Context](http://science.energy.gov/~/media/hep/hepap/pdf/May-2014/FINAL_P5_Report_Interactive_060214.pdf)
+
   * Snowmass:
 
     * [Planning the Future of U.S. Particle Physics (Snowmass 2013): Chapter 9: Computing](http://arxiv.org/abs/1401.6117)
