@@ -30,6 +30,8 @@ LINKS =  (('NSF SI2','http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504817'),
                   ('Indico', 'https://indico.cern.ch/category/7971/'),
                   ('Google Group', 'https://groups.google.com/forum/#!forum/s2i2-hep'),
                   ('Vidyo Room', 'https://vidyoportal.cern.ch/flex.html?roomdirect.html&key=g24IFWEdhejzHVy851PztEh82e4'),
+		  ('Molecular Sciences Software Institute','http://molssi.org/'),
+		  ('Science Gateways Community Institute','http://sciencegateways.org/'),
 		  )
 
 # Social widget
