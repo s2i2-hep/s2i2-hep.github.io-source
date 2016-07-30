@@ -1,4 +1,4 @@
-Title: Announcing the S2I2-HEP conceptualization project
+Title: Two NSF (S2I2) Software Institutes Funded
 date: 2016-07-29 10:37
 Slug: S2I2_Implementations
 Category: Blog
