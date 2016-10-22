@@ -19,6 +19,10 @@ Summary: Summary of the S2I2-HEP Conceptualization Project
 
 ### Collaborators
 
+  * [Dan Katz](http://danielskatz.org/) - National Center for Supercomputing Applications (NCSA), University of Illinois Urbana-Champaign
+
+  * [Doug Thain](http://www3.nd.edu/~dthain/) - Computer Science and Engineering, University of Notre Dame
+
 ### Acknowledgement
 
 
