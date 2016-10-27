@@ -1,6 +1,6 @@
 Title: S2I2-HEP / CS Workshop at the University of Illinois at Urbana-Champaign
 date: 2016-10-11 10:37
-Slug: WLCG_MB_CWP
+Slug: NCSA_UIUC_WKSHP
 Category: Blog
 Tags:  news
 Authors: Peter Elmer
@@ -13,8 +13,7 @@ he University of Illinois at Urbana-Champaign and is being hosted by the Univers
 ity of Illinois HEP Group and the National Center for Supercomputing Application
 s (NSCA).
 
-The workshop page can be found at
-[http://hep.physics.illinois.edu/hepg/S2I2-HEP-CS-WKSHP/home.html](http://hep.physics.illinois.edu/hepg/S2I2-HEP-CS-WKSHP/home.html)
+The workshop page can be found at [http://hep.physics.illinois.edu/hepg/S2I2-HEP-CS-WKSHP/home.html](http://hep.physics.illinois.edu/hepg/S2I2-HEP-CS-WKSHP/home.html)
 
 The worldwide particle physics community is currently planning upgrades to the Large Hadron Collider (LHC) at CERN in Geneva. The LHC today already uses a worldwide distributed computing grid to meet the needs of thousands of scientists to process and analyze some of the world's largest scientific datasets. The upgrades being planned will increase data volumes by more than two orders of magnitude and require significantly more complex data and analysis techniques.
 
@@ -24,11 +23,7 @@ The workshop will be organized around a series of panels and breakout sessions t
 
 It is intended for limited travel support to be available to defray part of the cost of attendance.
 
-In the near future, additional information will be provided via the workshop web page and the S2I2-HEP Google Group (and associated email list):
-
-[https://groups.google.com/forum/#!forum/s2i2-hep](https://groups.google.com/forum/#!forum/s2i2-hep)
-
-If you are receiving this email but are not yet a member of the S2I2-HEP Google Group, please consider joining at the link above.
+In the near future, additional information will be provided via the workshop web page and the [S2I2-HEP Google Group](https://groups.google.com/forum/#!forum/s2i2-hep). If you are receiving this email but are not yet a member, please consider joining. 
 
 You can also find out more information about the S2I2-HEP Conceptualization Project at
 
