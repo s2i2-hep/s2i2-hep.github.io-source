@@ -27,12 +27,12 @@ LINKS =  (('NSF SI2','http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504817'),
 		  ('DIANA/HEP','http://diana-hep.org'),
 		  ('HEP Software Foundation','http://hepsoftwarefoundation.org'),
 		  ('Community White Paper','http://hepsoftwarefoundation.org/cwp.html'),
-		  ('S2I2-HEP github', 'http://github.com/s2i2-hep'),
-                  ('Indico', 'https://indico.cern.ch/category/7971/'),
-                  ('S2I2-HEP Google Group', 'https://groups.google.com/forum/#!forum/s2i2-hep'),
-                  ('Vidyo Room', 'https://vidyoportal.cern.ch/flex.html?roomdirect.html&key=g24IFWEdhejzHVy851PztEh82e4'),
 		  ('Molecular Sciences Software Institute','http://molssi.org/'),
 		  ('Science Gateways Community Institute','http://sciencegateways.org/'),
+                  ('S2I2-HEP Google Group', 'https://groups.google.com/forum/#!forum/s2i2-hep'),
+                  ('Indico', 'https://indico.cern.ch/category/7971/'),
+                  ('Vidyo Room', 'https://vidyoportal.cern.ch/flex.html?roomdirect.html&key=g24IFWEdhejzHVy851PztEh82e4'),
+		  ('S2I2-HEP github', 'http://github.com/s2i2-hep'),
 		  )
 
 # Social widget
