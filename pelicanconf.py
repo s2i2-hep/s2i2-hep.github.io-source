@@ -64,7 +64,7 @@ BOOTSTRAP_THEME='spacelab'
 DISPLAY_BREADCRUMBS=False
 
 BOOTSTRAP_NAVBAR_INVERSE =True
-BANNER="images/s2i2-hep-06-banner.png"
+BANNER="images/s2i2-banner.jpg"
 BANNER_TITLE=None
 BANNER_SUBTITLE = None
 BANNER_ALL_PAGES = False
