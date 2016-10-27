@@ -14,7 +14,6 @@ Summary: Summary of the S2I2-HEP Conceptualization Project
 
   * [Mark Neubauer](https://physics.illinois.edu/people/profile.asp?msn) (PI) - University of Illinois at Urbana-Champaign, Department of Physics
 
-
   * [Nan Niu](http://homepages.uc.edu/~niunn/) (Senior Personnel) - University of Cincinnati, Department of EECS
 
 ### Collaborators
