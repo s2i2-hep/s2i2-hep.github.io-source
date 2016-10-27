@@ -5,6 +5,8 @@ Authors: Peter Elmer
 Summary: Summary of the S2I2/HEP Conceptualization Project
 Template: homepage
 
+**Conceptualization of an NSF Scientific Software Innovation Institute (S2I2) for High Energy Physics**
+
 Advanced software plays a fundamental role for large scientific
 projects - from designing experimental instruments to acquiring,
 reducing, and analyzing the resulting data. In such projects, success
