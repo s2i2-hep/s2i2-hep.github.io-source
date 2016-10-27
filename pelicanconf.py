@@ -67,7 +67,8 @@ DISPLAY_BREADCRUMBS=False
 BOOTSTRAP_NAVBAR_INVERSE =True
 BANNER="images/s2i2-banner.jpg"
 BANNER_TITLE=None
-BANNER_SUBTITLE = None
+#BANNER_SUBTITLE = None
+BANNER_SUBTITLE="Conceptualization of an NSF Scientific Software Innovation Institute (S2I2) for High Energy Physics"
 BANNER_ALL_PAGES = False
 
 #custom CSS
