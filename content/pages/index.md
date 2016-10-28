@@ -2,7 +2,7 @@ Title:
 date: 2016-06-15 10:53
 save_as: index.html
 Authors: Peter Elmer
-Summary: Summary of the S2I2/HEP Conceptualization Project
+Summary: Summary of the S2I2-HEP Conceptualization Project
 Template: homepage
 
 Advanced software plays a fundamental role for large scientific
@@ -15,7 +15,7 @@ requisite software is technically challenging because computing
 technologies (processors, storage, networks) are evolving rapidly
 and data volumes are increasing rapidly.
 
-The primary goal of the S2I2/HEP conceptualization project is to
+The primary goal of the S2I2-HEP conceptualization project is to
 prepare a strategic plan for a potential NSF Scientific Software
 Innovation Institute (S2I2) to develop software for experiments
 taking data in the "High-Luminosity Large Hadron Collider" (HL-LHC)
