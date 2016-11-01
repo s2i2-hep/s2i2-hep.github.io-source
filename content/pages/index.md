@@ -7,13 +7,14 @@ Template: homepage
 
 Advanced software plays a fundamental role for large scientific
 projects - from designing experimental instruments to acquiring,
-reducing, and analyzing the resulting data. In such projects, success
+reducing, and analyzing the resulting data. 
+<!--- In such projects, success
 requires large-scale collaboration; software is the glue that enables
 teams of researchers to work together to exploit accelerators,
 telescopes and other large scientific instruments. Building the
 requisite software is technically challenging because computing
 technologies (processors, storage, networks) are evolving rapidly
-and data volumes are increasing rapidly.
+and data volumes are increasing rapidly. --->
 
 The primary goal of the S2I2-HEP conceptualization project is to
 prepare a strategic plan for a potential NSF Scientific Software
@@ -28,6 +29,10 @@ in collaboration with the [HEP Software
 Foundation](http://hepsoftwarefoundation.org). More information about
 these workshops, and the related planning, will be forthcoming by September
 2016 on this webpage and via our [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep). 
+
+*Upcoming Events:*
+
+
 
 The S2I2-HEP conceptualization project is part of the NSF's [Software 
 Infrastructure for Sustained Innovation
