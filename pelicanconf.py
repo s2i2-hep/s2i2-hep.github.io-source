@@ -98,7 +98,7 @@ PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
 
 
 # comments
-DISQUS_SITENAME="s2i2-hep"
+#DISQUS_SITENAME="s2i2-hep"
 
 ''' For reference, this code
 <div id="disqus_thread"></div>
