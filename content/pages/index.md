@@ -26,16 +26,18 @@ a larger HEP
 [Community White Paper](http://hepsoftwarefoundation.org/cwp.html) describing
 a global roadmap for HEP Software and Computing R&D for the 2020s. To this
 end we are organizing a number of workshops
-between Fall 2016 and Summer 2017
-in collaboration with 
-
+between Fall 2016 and Summer 2017.
 
 Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep) for updates. 
 
 **Upcoming Events:**
 
-  * S2I2 HEP/CS Workshop (7-9 Dec, 2016, University of Illinois at Urbana-Champaign) - [Event page](http://hep.physics.illinois.edu/hepg/S2I2-HEP-CS-WKSHP/home.html), [Indico page](https://indico.cern.ch/event/575443/)
-  * HEP Software Foundation Workshop (23-26 Jan, 2017) - [Indico page](http://indico.cern.ch/event/570249/)
+  * S2I2 HEP/CS Workshop (7-9 Dec, 2016)
+    * University of Illinois at Urbana-Champaign
+    * [Event page](http://hep.physics.illinois.edu/hepg/S2I2-HEP-CS-WKSHP/home.html), [Indico page](https://indico.cern.ch/event/575443/)
+  * HEP Software Foundation Workshop (23-26 Jan, 2017)
+    * University of California at San Diego / San Diego Supercomputer Center
+    * [Indico page](http://indico.cern.ch/event/570249/)
 
 The S2I2-HEP conceptualization project is part of the NSF's [Software 
 Infrastructure for Sustained Innovation
