@@ -32,12 +32,15 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
 
 **Upcoming Events:**
 
-  * 7-9 Dec, 2016 - S2I2 HEP/CS Workshop 
-    * *University of Illinois at Urbana-Champaign*
-    * [Event page](http://hep.physics.illinois.edu/hepg/S2I2-HEP-CS-WKSHP/home.html), [Indico page](https://indico.cern.ch/event/575443/)
   * 23-26 Jan, 2017 - HEP Software Foundation Workshop
     * *University of California at San Diego / San Diego Supercomputer Center*
     * [Indico page](http://indico.cern.ch/event/570249/)
+
+**Past Events:**
+  * 7-9 Dec, 2016 - S2I2 HEP/CS Workshop 
+    * *University of Illinois at Urbana-Champaign*
+    * [Event page](http://hep.physics.illinois.edu/hepg/S2I2-HEP-CS-WKSHP/home.html), [Indico page](https://indico.cern.ch/event/575443/)
+
 
 The S2I2-HEP conceptualization project is part of the NSF's [Software 
 Infrastructure for Sustained Innovation
