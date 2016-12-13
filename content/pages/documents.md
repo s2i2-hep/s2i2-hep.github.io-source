@@ -14,7 +14,9 @@ Summary: Documents
 
 ### Previous Community Documents
 
-  * DOE - [High Energy Physics Forum for Computational Excellence: Working Group Reports (I. Applications Software II. Software Libraries and Tools III. Systems)](http://arxiv.org/abs/1510.08545)
+  * DOE 
+    * [ASCR/HEP Exascale Requirements Review](http://hepcce.org/files/2016/11/DOE-ExascaleReport-HEP-Final.pdf)
+    * [High Energy Physics Forum for Computational Excellence: Working Group Reports (I. Applications Software II. Software Libraries and Tools III. Systems)](http://arxiv.org/abs/1510.08545)
 
 <!---  * [HEP-FCE Working Group on Libraries and Tools](http://arxiv.org/abs/1506.01309) --->
 
