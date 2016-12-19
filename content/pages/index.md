@@ -23,10 +23,10 @@ taking data in the "High-Luminosity Large Hadron Collider" (HL-LHC)
 era in the 2020s. In addition, we are working with the [HEP Software
 Foundation](http://hepsoftwarefoundation.org) to prepare
 a larger HEP 
-[Community White Paper](http://hepsoftwarefoundation.org/cwp.html) describing
-a global roadmap for HEP Software and Computing R&D for the 2020s. To this
-end we are organizing a number of workshops
-between Fall 2016 and Summer 2017.    
+[Community White Paper (CWP)](http://hepsoftwarefoundation.org/cwp.html) 
+describing a global roadmap for HEP Software and Computing R&D for the 2020s. 
+To this end we are organizing a number of workshops between Fall 2016 and 
+Summer 2017.    
 
 Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep) for updates.
 
@@ -35,6 +35,10 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
   * 23-26 Jan, 2017 - HEP Software Foundation Workshop
     * *University of California at San Diego / San Diego Supercomputer Center*
     * [Indico page](http://indico.cern.ch/event/570249/)
+
+  * 20-22 Mar, 2017 - IML Topical Machine Learning Workshop (includes CWP session)
+    * *CERN* (plus possible Vidyo videconference)
+    * [Indico page](https://indico.cern.ch/event/595059)
 
 **Past Events:**
 
