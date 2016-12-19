@@ -35,7 +35,6 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
   * 23-26 Jan, 2017 - HEP Software Foundation Workshop
     * *University of California at San Diego / San Diego Supercomputer Center*
     * [Indico page](http://indico.cern.ch/event/570249/)
-
   * 20-22 Mar, 2017 - IML Topical Machine Learning Workshop (includes CWP session)
     * *CERN* (plus possible Vidyo videconference)
     * [Indico page](https://indico.cern.ch/event/595059)
