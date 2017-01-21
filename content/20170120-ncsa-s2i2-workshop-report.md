@@ -1,4 +1,4 @@
-Title: S2I2-HEP / CS Workshop at the University of Illinois at Urbana-Champaign
+Title: S2I2-HEP / CS Workshop Summary Report Available
 date: 2017-01-20 10:37
 Slug: NCSA_UIUC_WKSHP_RPT
 Category: Blog

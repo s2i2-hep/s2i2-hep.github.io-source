@@ -5,6 +5,7 @@ Authors: Peter Elmer
 Summary: Documents
 
 ### SI2 and S2I2-HEP Conceptualization Documents
+  * [Workshop Summary Report](http://s2i2-hep.org/downloads/s2i2-hep-cs-workshop-summary.pdf) from the [S2I2 HEP/CS workshop held at UIUC (7-9 Dec 2016)](https://indico.cern.ch/event/575443/)
 
   * NSF Proposal - [Conceptualization of an S2I2 Institute for High Energy Physics](../downloads/files/s2i2-2015-nsf-proposal.pdf) 
 
