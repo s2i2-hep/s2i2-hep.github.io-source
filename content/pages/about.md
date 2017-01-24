@@ -22,6 +22,8 @@ Summary: Summary of the S2I2-HEP Conceptualization Project
 
   * [Doug Thain](http://www3.nd.edu/~dthain/) - Computer Science and Engineering, University of Notre Dame
 
+  * [The HEP Software Foundation Startup Team](http://hepsoftwarefoundation.org/organization/team.html)
+
 ### Acknowledgement
 
 
