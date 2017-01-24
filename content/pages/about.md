@@ -5,7 +5,6 @@ Authors: Peter Elmer
 Summary: Summary of the S2I2-HEP Conceptualization Project
 
 
-
 ### Project Team
 
   * [Peter Elmer](http://www.princeton.edu/physics/people/display_person.xml?netid=gelmer&display=Research%20Staff) (Lead PI) - Princeton University, Department of Physics
