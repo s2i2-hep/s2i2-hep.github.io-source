@@ -26,7 +26,6 @@ Summary: Summary of the S2I2-HEP Conceptualization Project
 
 ### Acknowledgement
 
-
 This project is supported by [National Science Foundation](http://nsf.gov) grants ACI-1558216, ACI-1558219, and ACI-1558233. Any opinions, findings, conclusions or recommendations expressed in this material are those of the developers and do not necessarily reflect the views of the National Science Foundation.
 
 
