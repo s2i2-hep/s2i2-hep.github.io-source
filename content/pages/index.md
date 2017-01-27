@@ -44,6 +44,7 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
   * 7-9 Dec, 2016 - S2I2 HEP/CS Workshop 
     * *University of Illinois at Urbana-Champaign*
     * [Event page](http://hep.physics.illinois.edu/hepg/S2I2-HEP-CS-WKSHP/home.html), [Indico page](https://indico.cern.ch/event/575443/)
+    * [Workshop summary report (pdf)](http://s2i2-hep.org/downloads/s2i2-hep-cs-workshop-summary.pdf)
 
 
 The S2I2-HEP conceptualization project is part of the NSF's [Software 
