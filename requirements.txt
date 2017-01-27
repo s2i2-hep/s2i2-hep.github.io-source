@@ -3,3 +3,4 @@ Markdown
 fabric
 ipython[notebook]
 beautifulsoup4
+six
