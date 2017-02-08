@@ -39,8 +39,8 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
     * *Location TBD* 
     * [Workshop proposal](https://docs.google.com/document/d/1aAGCj_y9in_I-c9yYJ-XX3Qurf0PXH4tFoYmvuCY5tk/edit#heading=h.9h0v0hyue6zf)
 
-<!---  * 26-30 Jun, 2017 (TBC)- HEP Software Foundation Workshop
-    * *LAPP-Annecy (TBC)* (plus possible Vidyo videconference) --->
+  * 26-30 Jun, 2017 (TBC)- HEP Software Foundation Workshop
+    * *LAPP-Annecy*
 
 **Past Events:**
 
