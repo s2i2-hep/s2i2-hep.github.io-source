@@ -35,7 +35,7 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
   * 20-22 Mar, 2017 - IML Topical Machine Learning Workshop (includes CWP session)
     * *CERN* (plus possible Vidyo videconference)
     * [Indico page](https://indico.cern.ch/event/595059)
-  * April or May, 2017 (dates TBD) - HEP Analysis Ecosystem Workshop (proposed)
+  * 22-24 May, 2017 - HEP Analysis Ecosystem Retreat
     * *Location TBD* 
     * [Workshop proposal](https://docs.google.com/document/d/1aAGCj_y9in_I-c9yYJ-XX3Qurf0PXH4tFoYmvuCY5tk/edit#heading=h.9h0v0hyue6zf)
   * 5-6 Jun, 2017 (TBC) - CWP Event Processing Frameworks Workshop (TBC)
