@@ -32,11 +32,15 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
 
 **Upcoming Events:**
 
-  * 20-22 Mar, 2017 - IML Topical Machine Learning Workshop (includes CWP session)
+  * 9 Mar, 2017 - Software Triggers and Event Reconstruction WG meeting
+    * A CWP session at the [Connecting The Dots workshop](https://ctdwit2017.lal.in2p3.fr)
+    * [Indico page](https://indico.cern.ch/event/614111/)
+  * 20-22 Mar, 2017 - IML Topical Machine Learning Workshop
+    * The workshop includes a CWP session on Machine Learning
     * *CERN* (plus possible Vidyo videconference)
     * [Indico page](https://indico.cern.ch/event/595059)
   * 22-24 May, 2017 - HEP Analysis Ecosystem Retreat
-    * *Location TBD* 
+    * *Location TBD*
     * [Indico page](http://indico.cern.ch/event/613842/)
     * [Workshop proposal](https://docs.google.com/document/d/1aAGCj_y9in_I-c9yYJ-XX3Qurf0PXH4tFoYmvuCY5tk/edit#heading=h.9h0v0hyue6zf)
   * 5-6 Jun, 2017 (TBC) - CWP Event Processing Frameworks Workshop (TBC)
