@@ -39,6 +39,9 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
     * *CERN* 
     * The workshop includes a CWP session on Machine Learning
     * [Indico page](https://indico.cern.ch/event/595059)
+  * 28-30 Mar, 2017 - CWP Visualization Workshop
+    * *CERN (and Vidyo)*
+    * [Indico page](https://indico.cern.ch/event/617054/)
   * early May, 2017 - 2nd S2I2 HEP/CS Workshop (exact dates TBD)
     * *Princeton (TBC)*
   * 22-24 May, 2017 - HEP Analysis Ecosystem Retreat
