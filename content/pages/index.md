@@ -32,6 +32,8 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
 
 **Upcoming Events:**
 
+  * 8 Mar, 2017 - S2I2-HEP/OSG/USCMS/USAtlas Panel at OSG All Hands Meeting
+    * [Indico page](https://indico.fnal.gov/conferenceTimeTable.py?confId=12973#20170308)
   * 9 Mar, 2017 - Software Triggers and Event Reconstruction WG meeting
     * A CWP session at the [Connecting The Dots workshop](https://ctdwit2017.lal.in2p3.fr)
     * [Indico page](https://indico.cern.ch/event/614111/)
