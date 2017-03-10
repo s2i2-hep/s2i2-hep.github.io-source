@@ -26,7 +26,7 @@ MENUITEMS = (
 LINKS =  (('NSF SI2','http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504817'),
 		  ('DIANA/HEP','http://diana-hep.org'),
 		  ('HEP Software Foundation','http://hepsoftwarefoundation.org'),
-		  ('Community White Paper','http://hepsoftwarefoundation.org/cwp.html'),
+		  ('Community White Paper','http://hepsoftwarefoundation.org/activities/cwp.html'),
 		  ('Molecular Sciences Software Institute','http://molssi.org/'),
 		  ('Science Gateways Community Institute','http://sciencegateways.org/'),
                   ('S2I2-HEP Google Group', 'https://groups.google.com/forum/#!forum/s2i2-hep'),
