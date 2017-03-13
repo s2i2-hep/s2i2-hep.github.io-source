@@ -39,8 +39,9 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
   * 28-30 Mar, 2017 - CWP Visualization Workshop
     * *CERN (and Vidyo)*
     * [Indico page](https://indico.cern.ch/event/617054/)
-  * early May, 2017 - 2nd S2I2 HEP/CS Workshop (exact dates TBD)
-    * *Princeton (TBC)*
+  * 1-3 May, 2017 - 2nd S2I2 HEP/CS Workshop
+    * *Princeton University*
+    * [Indico page](https://indico.cern.ch/event/622920/)
   * 22-24 May, 2017 - HEP Analysis Ecosystem Retreat
     * *Amsterdam (TBC)* 
     * [Indico page](http://indico.cern.ch/event/613842/)
