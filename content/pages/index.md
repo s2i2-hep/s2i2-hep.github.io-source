@@ -51,6 +51,9 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
 
 **Past Events:**
 
+  * 23 Mar, 2017 - Community White Paper Follow-up at FNAL
+    * *FNAL* 
+    * [Indico page](https://indico.fnal.gov/conferenceDisplay.py?confId=14032)
   * 20-22 Mar, 2017 - IML Topical Machine Learning Workshop
     * *CERN* 
     * The workshop includes a CWP session on Machine Learning
