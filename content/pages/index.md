@@ -32,9 +32,9 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
 
 **Upcoming Events:**
 
-  * 1-3 May, 2017 - 2nd S2I2 HEP/CS Workshop
-    * *Princeton University*
-    * [Indico page](https://indico.cern.ch/event/622920/)
+  * 8-12 May, 2017 - DS@HEP 2017 (Data Science in High Energy Physics)
+    * *FNAL*
+    * [Indico page](https://indico.fnal.gov/conferenceDisplay.py?confId=13497)
   * 22-24 May, 2017 - HEP Analysis Ecosystem Retreat
     * *Amsterdam* 
     * [Indico page](http://indico.cern.ch/event/613842/)
@@ -49,6 +49,9 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
 
 **Past Events:**
 
+  * 1-3 May, 2017 - 2nd S2I2 HEP/CS Workshop
+    * *Princeton University*
+    * [Indico page](https://indico.cern.ch/event/622920/)
   * 28-30 Mar, 2017 - CWP Visualization Workshop
     * *CERN (and Vidyo)*
     * [Indico page](https://indico.cern.ch/event/617054/)
