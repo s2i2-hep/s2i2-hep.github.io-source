@@ -32,16 +32,16 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
 
 **Upcoming Events:**
 
-  * 5-6 Jun, 2017 - CWP Event Processing Frameworks Workshop
-    * *FNAL* 
-    * The workshop is just prior to the FNAL 50th Anniversary and User Meeting
-    * [Indico page](https://indico.fnal.gov/conferenceDisplay.py?confId=14186)
   * 26-30 Jun, 2017 - HEP Software Foundation Workshop
     * *LAPP (Annecy)*
     * [Indico page](https://indico.cern.ch/event/613093/)
 
 **Past Events:**
 
+  * 5-6 Jun, 2017 - CWP Event Processing Frameworks Workshop
+    * *FNAL* 
+    * The workshop is just prior to the FNAL 50th Anniversary and User Meeting
+    * [Indico page](https://indico.fnal.gov/conferenceDisplay.py?confId=14186)
   * 22-24 May, 2017 - HEP Analysis Ecosystem Retreat
     * *Amsterdam* 
     * [Indico page](http://indico.cern.ch/event/613842/)
