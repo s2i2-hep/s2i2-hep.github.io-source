@@ -33,7 +33,7 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
 **Upcoming Events:**
 
   * 26-30 Jun, 2017 - HEP Software Foundation Workshop
-    * *LAPP (Annecy)*
+    * *LAPP (Annecy)*   
     * [Indico page](https://indico.cern.ch/event/613093/)
 
 **Past Events:**
