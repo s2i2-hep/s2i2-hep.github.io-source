@@ -32,12 +32,16 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
 
 **Upcoming Events:**
 
-  * 26-30 Jun, 2017 - HEP Software Foundation Workshop
-    * *LAPP (Annecy)*   
-    * [Indico page](https://indico.cern.ch/event/613093/)
+  * 23-36 Aug, 2017 - S2I2-HEP Workshop 
+    * *Seattle*   
+    * Satellite workshop at [ACAT 2017 Workshop](https://indico.cern.ch/event/567550/)
+    * [Indico page](https://indico.cern.ch/event/640290/)
 
 **Past Events:**
 
+  * 26-30 Jun, 2017 - HEP Software Foundation Workshop
+    * *LAPP (Annecy)*   
+    * [Indico page](https://indico.cern.ch/event/613093/)
   * 5-6 Jun, 2017 - CWP Event Processing Frameworks Workshop  
     * *FNAL* 
     * The workshop is just prior to the FNAL 50th Anniversary and User Meeting
