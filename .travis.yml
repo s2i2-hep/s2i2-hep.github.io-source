@@ -10,6 +10,8 @@ install:
 - pwd
 - git clone https://github.com/s2i2-hep/pelican-themes.git
 - git clone --recursive https://github.com/getpelican/pelican-plugins
+- git clone --recursive https://github.com/s2i2-hep/Ideal-Image-Slider-JS
+- git clone --recursive https://github.com/s2i2-hep/jekyll-ideal-image-slider-include
 - pwd
 - ls
 - wget http://www.tipue.com/search/tipuesearch.zip
