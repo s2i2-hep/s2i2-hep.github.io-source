@@ -33,7 +33,7 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
 **Upcoming Events:**
 
   * 23-36 Aug, 2017 - S2I2-HEP Workshop 
-    * *Seattle*   
+    * *University of Washington, Seattle*   
     * A satellite meeting at [ACAT 2017 Workshop](https://indico.cern.ch/event/567550/)
     * [Indico page](https://indico.cern.ch/event/640290/)
 
