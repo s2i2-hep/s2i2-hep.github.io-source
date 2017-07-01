@@ -34,7 +34,7 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
 
   * 23-36 Aug, 2017 - S2I2-HEP Workshop 
     * *Seattle*   
-    * Satellite workshop at [ACAT 2017 Workshop](https://indico.cern.ch/event/567550/)
+    * A satellite meeting at [ACAT 2017 Workshop](https://indico.cern.ch/event/567550/)
     * [Indico page](https://indico.cern.ch/event/640290/)
 
 **Past Events:**
