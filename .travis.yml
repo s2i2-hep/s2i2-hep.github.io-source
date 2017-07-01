@@ -13,6 +13,10 @@ install:
 - git clone --recursive https://github.com/s2i2-hep/Ideal-Image-Slider-JS
 - git clone --recursive https://github.com/s2i2-hep/jekyll-ideal-image-slider-include
 - mv jekyll-ideal-image-slider-include/_includes .
+- mkdir -p assets/js/slider
+- mv Ideal-Image-Slider-JS/extensions/bullet-nav/iis-bullet-nav.js assets/js/slider
+- mv Ideal-Image-Slider-JS/extensions/captions/iis-captions.js assets/js/slider
+- mv Ideal-Image-Slider-JS/Ideal-Image-Slider-JS//ideal-image-slider.min.js assets/js/slider
 - pwd
 - ls
 - wget http://www.tipue.com/search/tipuesearch.zip
