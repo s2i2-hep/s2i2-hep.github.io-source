@@ -12,7 +12,7 @@ install:
 - git clone --recursive https://github.com/getpelican/pelican-plugins
 - git clone --recursive https://github.com/s2i2-hep/Ideal-Image-Slider-JS
 - git clone --recursive https://github.com/s2i2-hep/jekyll-ideal-image-slider-include
-- cp -R jekyll-ideal-image-slider-include/_includes .
+- cp -R jekyll-ideal-image-slider-include/_includes pelican-themes/pelican-bootstrap3/templates/ 
 - mkdir -p assets/js/slider
 - cp Ideal-Image-Slider-JS/extensions/bullet-nav/iis-bullet-nav.js assets/js/slider
 - cp Ideal-Image-Slider-JS/extensions/captions/iis-captions.js assets/js/slider
