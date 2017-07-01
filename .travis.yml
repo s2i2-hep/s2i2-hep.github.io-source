@@ -17,7 +17,7 @@ install:
 - cp Ideal-Image-Slider-JS/extensions/bullet-nav/iis-bullet-nav.js assets/js/slider
 - cp Ideal-Image-Slider-JS/extensions/captions/iis-captions.js assets/js/slider
 - cp Ideal-Image-Slider-JS//ideal-image-slider.min.js assets/js/slider
-- mkdir -p assets/css/slider
+- mkdir -p assets/css/slider 
 - cp Ideal-Image-Slider-JS/ideal-image-slider.css assets/css/slider
 - cp Ideal-Image-Slider-JS/themes/default/default.css assets/css/slider
 - pwd
