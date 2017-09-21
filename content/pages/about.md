@@ -7,7 +7,7 @@ Summary: Summary of the S2I2-HEP Conceptualization Project
 
 ### Project Team
 
-  * [Peter Elmer](http://www.princeton.edu/physics/people/display_person.xml?netid=gelmer&display=Research%20Staff) (Lead PI) - Princeton University, Department of Physics
+  * [Peter Elmer](https://phy.princeton.edu/people/g-j-peter-elmer) (Lead PI) - Princeton University, Department of Physics
 
   * [Michael D. Sokoloff](http://www.artsci.uc.edu/departments/physics/fac_staff.html?eid=sokoloff&thecomp=uceprof) (PI) - University of Cincinnati, Department of Physics
 
