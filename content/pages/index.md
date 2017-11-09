@@ -32,10 +32,11 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
 
 **Upcoming Events:**
 
-**Past Events:**
   * 16-17 Nov, 2017 - Data Organisation, Management and Access (DOMA) in Astronomy, Genomics and High Energy Physics
     * * [Flatiron Institute (Simons Foundation)](https://www.simonsfoundation.org/flatiron/), New York City*   
     * [Indico page](https://indico.cern.ch/event/669506/)
+
+**Past Events:**
 
   * 23-26 Aug, 2017 - S2I2-HEP Workshop 
     * *University of Washington, Seattle*   
