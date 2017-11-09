@@ -37,7 +37,6 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
   * 16-17 Nov, 2017 - Data Organisation, Management and Access (DOMA) in Astronomy, Genomics and High Energy Physics
     * *[Flatiron Institute (Simons Foundation)](https://www.simonsfoundation.org/flatiron/), New York City*   
     * [Indico page](https://indico.cern.ch/event/669506/)
-
   * 28-29 Nov, 2017 - S2I2/DOE-lab mini-workshop on HL-LHC Software and Computing R&D
     * *[Catholic University of America](https://www.catholic.edu/index.html), Washington DC*
     * [Indico page](https://indico.cern.ch/event/678121/)
