@@ -31,6 +31,7 @@ Summer 2017.
 Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep) for updates.
 
 **Upcoming Events:**
+
   * *None scheduled*
 
 **Past Events:**
