@@ -25,8 +25,8 @@ Foundation](http://hepsoftwarefoundation.org) to prepare
 a larger HEP 
 [Community White Paper (CWP)](http://hepsoftwarefoundation.org/cwp.html) 
 describing a global roadmap for HEP Software and Computing R&D for the 2020s. 
-To this end we are organizing a number of workshops between Fall 2016 and 
-Summer 2017.    
+Building a US and global community to accomplish this R&D roadmap is an
+essential element. To achieve these goals we are organizing a number of workshops starting in Fall 2016.
 
 Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep) for updates.
 
