@@ -32,7 +32,9 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
 
 **Upcoming Events:**
 
-  * *None scheduled*
+  * 14 Dec, 2017 - Mini-workshop on Building Collaborations for ML in HEP
+    * *[Massachusetts Institute of Technology](http://web.mit.edu), Boston
+    * [Indico page](https://indico.cern.ch/event/686137/)
 
 **Past Events:**
 
