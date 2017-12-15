@@ -31,13 +31,13 @@ essential element. To achieve these goals we are organizing a number of workshop
 Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep) for updates.
 
 **Upcoming Events:**
+  * None planned
+
+**Past Events:**
 
   * 14 Dec, 2017 - Mini-workshop on Building Collaborations for ML in HEP
     * *[Massachusetts Institute of Technology](http://web.mit.edu), Boston*
     * [Indico page](https://indico.cern.ch/event/686137/)
-
-**Past Events:**
-
   * 28-29 Nov, 2017 - S2I2/DOE-lab mini-workshop on HL-LHC Software and Computing R&D
     * *[Catholic University of America](https://www.catholic.edu/index.html), Washington DC*
     * [Indico page](https://indico.cern.ch/event/678121/)
