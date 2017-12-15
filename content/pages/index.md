@@ -31,6 +31,7 @@ essential element. To achieve these goals we are organizing a number of workshop
 Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep) for updates.
 
 **Upcoming Events:**
+
   * None planned
 
 **Past Events:**
