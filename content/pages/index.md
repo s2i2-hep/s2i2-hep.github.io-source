@@ -30,11 +30,11 @@ essential element. To achieve these goals we are organizing a number of workshop
 
 Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep) for updates.
 
-**Update 18 Dec 2017** - The Strategic Plan and Community White Paper Documents are now available:
+**Update 18 Dec 2017** - The S2I2-HEP Strategic Plan and Community White Paper documents are now available:
 
   * Strategic Plan for a Scientific Software Innovation Institute (S2I2) for
-   High Energy Physics [arXiv 1712.06592](https://arxiv.org/abs/1712.06592)
-  * A Roadmap for HEP Software and Computing R&D for the 2020s (Community White Paper) [arXiv 1712.06982](https://arxiv.org/abs/1712.06982)
+   High Energy Physics - [arXiv 1712.06592](https://arxiv.org/abs/1712.06592)
+  * A Roadmap for HEP Software and Computing R&D for the 2020s (Community White Paper) - [arXiv 1712.06982](https://arxiv.org/abs/1712.06982)
 
 **Upcoming Events:**
 
