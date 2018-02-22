@@ -38,7 +38,9 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
 
 **Upcoming Events:**
 
-  * None planned
+  * 26-29 Mar, 2018 - Joint WLCG/HSF Workshop 2018
+    * *[Centro Congressi Federico II (Naples, Italy) 
+    * [Indico page](https://indico.cern.ch/event/658060/)
 
 **Past Events:**
 
