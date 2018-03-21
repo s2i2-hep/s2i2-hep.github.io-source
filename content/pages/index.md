@@ -42,6 +42,10 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
     * *Centro Congressi Federico II (Naples, Italy)*
     * [Indico page](https://indico.cern.ch/event/658060/)
 
+  * 26-27 Apr, 2018 - Reconstruction, Trigger, and Machine Learning for the HL-LHC
+    * *MIT (Boston)*
+    * [Indico page](https://indico.cern.ch/event/714134/)
+
 **Past Events:**
 
   * 14 Dec, 2017 - Mini-workshop on Building Collaborations for ML in HEP
