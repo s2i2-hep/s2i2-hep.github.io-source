@@ -39,7 +39,7 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
 **Upcoming Events:**
 
   * 26-29 Mar, 2018 - Joint WLCG/HSF Workshop 2018
-    * *Centro Congressi Federico II (Naples, Italy)*
+    * *Centro Congressi Federico II, Naples, Italy*
     * [Indico page](https://indico.cern.ch/event/658060/)
   * 26-27 Apr, 2018 - Reconstruction, Trigger, and Machine Learning for the HL-LHC
     * *[Massachusetts Institute of Technology](http://web.mit.edu), Boston*
