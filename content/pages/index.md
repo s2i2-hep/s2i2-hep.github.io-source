@@ -38,7 +38,7 @@ Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep)
 
 **Upcoming Events:**
 
-  Currently there are no events planned.
+  No upcoming events are currently planned.
 
 **Past Events:**
 
