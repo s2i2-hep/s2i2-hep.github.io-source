@@ -26,9 +26,7 @@ a larger HEP
 [Community White Paper (CWP)](http://hepsoftwarefoundation.org/cwp.html) 
 describing a global roadmap for HEP Software and Computing R&D for the 2020s. 
 Building a US and global community to accomplish this R&D roadmap is an
-essential element. To achieve these goals we are organizing a number of workshops starting in Fall 2016.
-
-Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep) for updates.
+essential element. To achieve these goals we are organizing a number of workshops during 2017.
 
 **Update 4 Sep 2018** - The NSF today [launched](https://www.nsf.gov/news/news_summ.jsp?cntn_id=296456) the "Institute for Research and Innovation in 
 Software in High Energy Physics (IRIS-HEP)". IRIS-HEP will implement the strategic plan developed by the S2I2-HEP project. More information can be found on the [IRIS-HEP website](http://iris-hep.org).
