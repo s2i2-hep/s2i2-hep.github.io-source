@@ -30,6 +30,9 @@ essential element. To achieve these goals we are organizing a number of workshop
 
 Please join the [Google Group](https://groups.google.com/forum/#!forum/s2i2-hep) for updates.
 
+**Update 4 Sep 2018** - The NSF today [launched](https://www.nsf.gov/news/news_summ.jsp?cntn_id=296456) the "Institute for Research and Innovation in 
+Software in High Energy Physics (IRIS-HEP)". IRIS-HEP will implement the strategic plan developed by the S2I2-HEP project. More information can be found on the [IRIS-HEP website](http://iris-hep.org).
+
 **Update 18 Dec 2017** - The S2I2-HEP Strategic Plan and Community White Paper documents are now available:
 
   * Strategic Plan for a Scientific Software Innovation Institute (S2I2) for
