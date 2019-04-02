@@ -28,7 +28,7 @@ describing a global roadmap for HEP Software and Computing R&D for the 2020s.
 Building a US and global community to accomplish this R&D roadmap is an
 essential element. To achieve these goals we are organizing a number of workshops during 2017.
 
-**Update 20 Mar 2010** - The Community White Paper has now been published as ["A Roadmap for HEP Software and Computing R&D for the 2020s"](https://doi.org/10.1007/s41781-018-0018-8) in the journal ["Computing and Software for Big Science"](https://link.springer.com/journal/41781)
+**Update 20 Mar 2019** - The Community White Paper has now been published as ["A Roadmap for HEP Software and Computing R&D for the 2020s"](https://doi.org/10.1007/s41781-018-0018-8) in the journal ["Computing and Software for Big Science"](https://link.springer.com/journal/41781)
 
 **Update 4 Sep 2018** - The NSF today [launched](https://www.nsf.gov/news/news_summ.jsp?cntn_id=296456) the "Institute for Research and Innovation in 
 Software in High Energy Physics (IRIS-HEP)". IRIS-HEP will implement the strategic plan developed by the S2I2-HEP project. More information can be found on the [IRIS-HEP website](http://iris-hep.org).
