@@ -41,12 +41,13 @@ Software in High Energy Physics (IRIS-HEP)". IRIS-HEP will implement the strateg
 
 **Upcoming Events:**
 
-  * 23-25 Oct, 2019 - A Coordinated Ecosystem for HL-LHC Computing R&D
-    * *Venue TBD, Washington DC area*
-    * [Indico page](https://indico.cern.ch/event/834880/)
+  *No upcoming events are currently planned*
 
 **Past Events:**
 
+  * 23-25 Oct, 2019 - A Coordinated Ecosystem for HL-LHC Computing R&D
+    * *Venue TBD, Washington DC area*
+    * [Indico page](https://indico.cern.ch/event/834880/)
   * 26-27 Apr, 2018 - Reconstruction, Trigger, and Machine Learning for the HL-LHC
     * *[Massachusetts Institute of Technology](http://web.mit.edu), Boston*
     * [Indico page](https://indico.cern.ch/event/714134/)
